@@ -143,3 +143,11 @@ https://github.com/ArunaKumarGouda
 <h3 align="center">
 ⭐ Thank you for visiting my GitHub Profile! ⭐
 </h3>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ArunaKumarGouda/ArunaKumarGouda/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
