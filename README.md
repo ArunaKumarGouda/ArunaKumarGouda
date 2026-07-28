@@ -21,40 +21,11 @@
 
 ---
 
-## 🚀 Tech Stack
+## 🛠 Tech Stack
 
-### Programming Languages
-
-- Java
-- Python
-- C
-- JavaScript
-- PHP
-
-### Frontend
-
-- HTML
-- CSS
-- React
-- Angular
-
-### Backend
-
-- Spring Boot
-- REST APIs
-
-### Database
-
-- MySQL
-
-### Tools
-
-- Git
-- GitHub
-- VS Code
-- IntelliJ IDEA
-- Jupyter Notebook
-- Anaconda
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,python,c,html,css,javascript,php,react,angular,spring,mysql,git,github,vscode,idea,anaconda" />
+</p>
 
 ---
 
@@ -63,6 +34,23 @@
 - 🚀 PathGuard
 - 🚌 SmartBus Tracker
 - 🔐 File Encryption System
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArunaKumarGouda&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArunaKumarGouda&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=ArunaKumarGouda&theme=tokyonight"/>
+</p>
 
 ---
 
