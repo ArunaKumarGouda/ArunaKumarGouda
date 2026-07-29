@@ -125,11 +125,71 @@ Become a Software Engineer specializing in AI & Full Stack Development.
 
 # 🚀 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🛡️ **PathGuard** | IoT-based Soldier Detection & Tracking System | React, Node.js, ESP32, GPS, LoRa |
-| 🚌 **SmartBus Tracker** | AI-powered Smart Bus Tracking with GPS & ETA | React, AI, GPS |
-| 🔐 **File Encryption System** | Secure encryption & decryption application | Java, Cryptography |
+<table>
+<tr>
+<td width="50%">
+
+## 🛡️ PathGuard
+
+IoT-based Soldier Detection & Tracking System with real-time GPS monitoring, ESP32, LoRa communication, React dashboard, and Node.js backend.
+
+**Tech Stack**
+
+`React` `Node.js` `ESP32` `LoRa` `GPS` `Express`
+
+<a href="https://github.com/ArunaKumarGouda/PathGaurd">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+## 🚌 SmartBus Tracker
+
+AI-powered smart transportation system with live GPS tracking, ETA prediction, and an interactive dashboard.
+
+**Tech Stack**
+
+`React` `AI` `GPS` `JavaScript`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🔐 File Encryption System
+
+Desktop application for secure file encryption and decryption using modern cryptographic algorithms.
+
+**Tech Stack**
+
+`Java` `Security` `File Handling`
+
+</td>
+
+<td width="50%">
+
+## 🚀 More Projects
+
+✔ Java Programs
+
+✔ Python Programs
+
+✔ HTML/CSS/JavaScript
+
+✔ Spring Boot APIs
+
+✔ React Projects
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
@@ -195,6 +255,17 @@ Secure file encryption and decryption using modern cryptographic techniques.
 
 ---
 
+# 📊 Development Focus
+
+☕ Java                ███████████████████░░ 95%
+🐍 Python              ██████████████████░░░ 90%
+🌱 Spring Boot         ███████████████░░░░░░ 80%
+⚛ React               ██████████████░░░░░░░ 75%
+🗄 MySQL               █████████████████░░░░ 85%
+💻 Git & GitHub        ████████████████████░ 98%
+
+---
+
 # 📚 Coding Journey
 
 ✔ Daily Java Programming
@@ -208,6 +279,18 @@ Secure file encryption and decryption using modern cryptographic techniques.
 ✔ AI & Data Science
 
 ✔ Real World Projects
+
+---
+
+# 📚 Currently Exploring
+
+- ☁ Cloud Computing
+- 🐳 Docker
+- 🔄 CI/CD
+- 🏗 Microservices
+- 🤖 Machine Learning
+- 🧠 Deep Learning
+- 📱 Android Development
 
 ---
 
