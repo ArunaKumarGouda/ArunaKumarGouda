@@ -42,17 +42,21 @@ Java Full Stack Developer • Python Developer • AI Enthusiast
 
 # 👨‍💻 About Me
 
-🎓 B.Tech Computer Science Engineering Student
+🎓 B.Tech Computer Science Engineering Student (GIET, Baniatangi, Khordha, Bhubaneswar)
 
-💻 Passionate about Software Development, Artificial Intelligence and Problem Solving.
+💻 Passionate about Java Full Stack Development, Artificial Intelligence and Problem Solving.
+
+🚀 Building real-world software projects while continuously improving my programming and development skills.
 
 # 🎯 Current Focus
 
-💻 Building      : Java Full Stack Applications
-🌱 Learning      : Spring Boot • React • Microservices
-🤖 Exploring     : Artificial Intelligence & Data Science
-🚀 Goal          : Software Engineer | AI Engineer
-📚 Daily Habit   : Coding • DSA • Open Source • GitHub
+```text
+💻 Building     : Java Full Stack Applications
+🌱 Learning     : Spring Boot • React • Microservices
+🤖 Exploring    : Artificial Intelligence & Data Science
+🚀 Goal         : Software Engineer | AI Engineer
+📚 Daily Habit  : Coding • DSA • Open Source • GitHub
+```
 
 🚀 Currently Working On
 
@@ -137,7 +141,7 @@ IoT-based Soldier Detection & Tracking System with real-time GPS monitoring, ESP
 
 `React` `Node.js` `ESP32` `LoRa` `GPS` `Express`
 
-<a href="https://github.com/ArunaKumarGouda/PathGaurd">
+<a href="https://github.com/ArunaKumarGouda/PathGuard">
 <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -190,16 +194,6 @@ Desktop application for secure file encryption and decryption using modern crypt
 </tr>
 
 </table>
-
----
-
-### 🚌 SmartBus Tracker
-AI Powered Smart Bus Tracking System with Real-Time GPS and ETA Prediction.
-
----
-
-### 🔐 File Encryption System
-Secure file encryption and decryption using modern cryptographic techniques.
 
 ---
 
@@ -257,12 +251,14 @@ Secure file encryption and decryption using modern cryptographic techniques.
 
 # 📊 Development Focus
 
-☕ Java                ███████████████████░░ 95%
-🐍 Python              ██████████████████░░░ 90%
-🌱 Spring Boot         ███████████████░░░░░░ 80%
-⚛ React               ██████████████░░░░░░░ 75%
-🗄 MySQL               █████████████████░░░░ 85%
-💻 Git & GitHub        ████████████████████░ 98%
+```text
+☕ Java          ███████████████████░░ 95%
+🐍 Python        ██████████████████░░░ 90%
+🌱 Spring Boot   ███████████████░░░░░░ 80%
+⚛ React         ██████████████░░░░░░░ 75%
+🗄 MySQL         █████████████████░░░░ 85%
+💻 Git & GitHub  ████████████████████░ 98%
+```
 
 ---
 
@@ -316,25 +312,17 @@ Secure file encryption and decryption using modern cryptographic techniques.
 
 ---
 
-# 📫 Contact
-
-📧 Email: **arunakumargouda86@gmail.com**
-
-💼 LinkedIn:
-https://www.linkedin.com/in/aruna-kumar-gouda-3997b9359/
-
-🐙 GitHub:
-https://github.com/ArunaKumarGouda
-
----
-
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=ArunaKumarGouda&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/ArunaKumarGouda?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/ArunaKumarGouda?style=for-the-badge"/>
+<a href="https://www.linkedin.com/in/aruna-kumar-gouda-3997b9359/">
+LinkedIn
+</a> •
+<a href="https://github.com/ArunaKumarGouda">
+GitHub
+</a> •
+<a href="mailto:arunakumargouda86@gmail.com">
+Email
+</a>
 
 </p>
 
@@ -352,6 +340,10 @@ https://github.com/ArunaKumarGouda
 
 <h3 align="center">
 
-⭐ Thanks for visiting my GitHub Profile! ⭐
+⭐ Thanks for visiting my profile! ⭐
+
+<br>
+
+Let's connect and build amazing software together 🚀
 
 </h3>
