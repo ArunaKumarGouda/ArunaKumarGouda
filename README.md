@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/github-banner.jpeg" width="100%" alt="GitHub Banner">
+</p>
+
 <h1 align="center">Hi 👋, I'm Aruna Kumar Gouda</h1>
 
 <h3 align="center">
