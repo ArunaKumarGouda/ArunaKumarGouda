@@ -46,15 +46,13 @@ Java Full Stack Developer • Python Developer • AI Enthusiast
 
 💻 Passionate about Software Development, Artificial Intelligence and Problem Solving.
 
-🌱 Currently Learning
+# 🎯 Current Focus
 
-- Java
-- Python
-- Data Structures & Algorithms
-- Spring Boot
-- React
-- Artificial Intelligence
-- Data Science
+💻 Building      : Java Full Stack Applications
+🌱 Learning      : Spring Boot • React • Microservices
+🤖 Exploring     : Artificial Intelligence & Data Science
+🚀 Goal          : Software Engineer | AI Engineer
+📚 Daily Habit   : Coding • DSA • Open Source • GitHub
 
 🚀 Currently Working On
 
@@ -93,18 +91,45 @@ Become a Software Engineer specializing in AI & Full Stack Development.
 
 # 💻 Tech Stack
 
+## 👨‍💻 Languages
+
 <p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,c,javascript,php"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=java,python,c,html,css,javascript,php,react,angular,spring,nodejs,express,mysql,git,github,vscode,idea,anaconda"/>
+## 🎨 Frontend
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,react,angular"/>
+</p>
+
+## ⚙ Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express"/>
+</p>
+
+## 🗄 Database
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql"/>
+</p>
+
+## 🛠 Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,anaconda"/>
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-### 🛡️ PathGuard
-IoT Based Soldier Detection & Tracking System using ESP32, GPS, LoRa, React and Node.js.
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🛡️ **PathGuard** | IoT-based Soldier Detection & Tracking System | React, Node.js, ESP32, GPS, LoRa |
+| 🚌 **SmartBus Tracker** | AI-powered Smart Bus Tracking with GPS & ETA | React, AI, GPS |
+| 🔐 **File Encryption System** | Secure encryption & decryption application | Java, Cryptography |
 
 ---
 
@@ -125,6 +150,16 @@ Secure file encryption and decryption using modern cryptographic techniques.
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=ArunaKumarGouda&show_icons=true&theme=tokyonight"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArunaKumarGouda&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 📈 GitHub Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArunaKumarGouda&theme=github_dark"/>
 
 </p>
 
