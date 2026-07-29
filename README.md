@@ -1,3 +1,5 @@
+<!-- ========================= HEADER ========================= -->
+
 <p align="center">
   <img src="assets/github-banner.jpeg" width="100%" alt="GitHub Banner">
 </p>
@@ -5,22 +7,38 @@
 <h1 align="center">Hi 👋, I'm Aruna Kumar Gouda</h1>
 
 <h3 align="center">
-Software Developer • Full Stack Developer • Java • Python • AI Enthusiast
+Java Full Stack Developer • Python Developer • AI Enthusiast
 </h3>
 
 <p align="center">
-Building real-world software, one project at a time.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Java+Full+Stack+Developer;Spring+Boot+Developer;React+Developer;Python+Developer;AI+%26+Data+Science+Enthusiast;Building+Real+World+Projects;Always+Learning+New+Technologies"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Java+Developer;Python+Developer;Full+Stack+Developer;Spring+Boot+Learner;React+Developer;AI+%26+Data+Science+Enthusiast;Always+Learning+New+Things!" />
+
+<a href="https://github.com/ArunaKumarGouda">
+<img src="https://skillicons.dev/icons?i=github" height="48"/>
+</a>
+
+<a href="https://www.linkedin.com/in/aruna-kumar-gouda-3997b9359/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
+</a>
+
+<a href="mailto:arunakumargouda86@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
+</a>
+
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420"/>
+
+<img src="https://komarev.com/ghpvc/?username=ArunaKumarGouda&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/ArunaKumarGouda?style=for-the-badge&logo=github"/>
+
 </p>
 
----
+<!-- ========================= END HEADER ========================= -->
 
 # 👨‍💻 About Me
 
