@@ -1,349 +1,352 @@
-<!-- ========================= HEADER ========================= -->
+<!-- ================================================================ -->
+<!--                        PREMIUM SVG BANNER                        -->
+<!-- ================================================================ -->
+<div align="center">
+  <img src="./assets/banner.svg" width="100%" alt="Aruna Kumar Gouda banner" />
+</div>
+
+<!-- ================================================================ -->
+<!--                        PROFESSIONAL HEADER                       -->
+<!-- ================================================================ -->
+<div align="center">
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Java+Full+Stack+Developer;Python+Developer+%7C+AI+Enthusiast;Turning+Ideas+Into+Scalable+Software;Always+Learning+%2C+Always+Building" alt="Typing SVG" />
+  </a>
+
+  <br/>
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aruna-kumar-gouda-3997b9359/)
+  [![Gmail](https://img.shields.io/badge/Email-06B6D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arunakumargouda86@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-0EA5E9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArunaKumarGouda)
+
+  <br/>
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=ArunaKumarGouda&color=0ea5e9&style=for-the-badge&label=PROFILE+VIEWS)
+  ![Followers](https://img.shields.io/github/followers/ArunaKumarGouda?style=for-the-badge&color=38bdf8&label=FOLLOWERS&labelColor=020617)
+  ![Stars](https://img.shields.io/github/stars/ArunaKumarGouda?style=for-the-badge&color=22d3ee&label=STARS&labelColor=020617)
+
+</div>
 
 <p align="center">
-  <img src="assets/github-banner.jpeg" width="100%" alt="GitHub Banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:020617&height=3&section=header" width="100%"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Aruna Kumar Gouda</h1>
+<!-- ================================================================ -->
+<!--                            ABOUT ME                               -->
+<!-- ================================================================ -->
+## 🧠 About Me
 
-<h3 align="center">
-Java Full Stack Developer • Python Developer • AI Enthusiast
-</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Java+Full+Stack+Developer;Spring+Boot+Developer;React+Developer;Python+Developer;AI+%26+Data+Science+Enthusiast;Building+Real+World+Projects;Always+Learning+New+Technologies"/>
-</p>
-
-<p align="center">
-
-<a href="https://github.com/ArunaKumarGouda">
-<img src="https://skillicons.dev/icons?i=github" height="48"/>
-</a>
-
-<a href="https://www.linkedin.com/in/aruna-kumar-gouda-3997b9359/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
-</a>
-
-<a href="mailto:arunakumargouda86@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
-</a>
-
-</p>
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=ArunaKumarGouda&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/ArunaKumarGouda?style=for-the-badge&logo=github"/>
-
-</p>
-
-<!-- ========================= END HEADER ========================= -->
-
-# 👨‍💻 About Me
-
-🎓 B.Tech Computer Science Engineering Student (GIET, Baniatangi, Khordha, Bhubaneswar)
-
-💻 Passionate about Java Full Stack Development, Artificial Intelligence and Problem Solving.
-
-🚀 Building real-world software projects while continuously improving my programming and development skills.
-
-# 🎯 Current Focus
-
-```text
-💻 Building     : Java Full Stack Applications
-🌱 Learning     : Spring Boot • React • Microservices
-🤖 Exploring    : Artificial Intelligence & Data Science
-🚀 Goal         : Software Engineer | AI Engineer
-📚 Daily Habit  : Coding • DSA • Open Source • GitHub
+```yaml
+name: "Aruna Kumar Gouda"
+location: "Odisha, India"
+education: "B.Tech - Computer Science Engineering"
+role: "Java Full Stack Developer | Python Developer | AI Enthusiast"
+mission: "Build clean, scalable, and impactful software"
+currently_learning: ["Microservices", "Docker", "Cloud", "CI/CD", "Machine Learning", "Deep Learning"]
+philosophy: "Write code that is simple to read, easy to scale, and built to last"
 ```
 
-🚀 Currently Working On
+- 🎯 **Career Goal** — Grow into a versatile full-stack engineer who ships production-grade systems and contributes meaningfully to open source.
+- 📚 **Currently Exploring** — Microservices architecture, containerization with Docker, cloud fundamentals, and the foundations of Machine Learning & Deep Learning.
+- 🛠️ **Strengths** — Strong problem-solving mindset, clean coding practices, fast adaptability to new tech stacks, and a genuine curiosity for how things work under the hood.
+- 💡 **Development Philosophy** — Readable code today saves debugging time tomorrow. I build for clarity first, performance second, and always with the next developer in mind.
 
-- IoT Based Projects
-- Full Stack Development
-- GitHub Portfolio
-- Open Source Learning
+<!-- ================================================================ -->
+<!--                          CURRENT FOCUS                           -->
+<!-- ================================================================ -->
+## 🎯 Current Focus
 
-🎯 Career Goal
+```java
+public class CurrentFocus {
+    String[] technologies = {"Spring Boot", "React", "Docker", "AWS Basics"};
+    String[] projects     = {"PathGuard", "SmartBus Tracker", "File Encryption System"};
+    String[] roadmap      = {"Microservices", "Kubernetes", "Machine Learning"};
+    boolean placementPrep = true;
 
-Become a Software Engineer specializing in AI & Full Stack Development.
+    public String mission() {
+        return "Ship clean code, learn relentlessly, and contribute to open source.";
+    }
+}
+```
 
-📍 Odisha, India
+<!-- ================================================================ -->
+<!--                            TECH STACK                            -->
+<!-- ================================================================ -->
+## 🧩 Tech Stack
 
----
+**Programming Languages**
+<p><img src="https://skillicons.dev/icons?i=java,python,c,js,php&theme=dark" /></p>
 
-# 🌐 Connect With Me
+**Frontend**
+<p><img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" /></p>
 
-<p align="center">
+**Backend & Frameworks**
+<p><img src="https://skillicons.dev/icons?i=spring,nodejs,express&theme=dark" /></p>
 
-<a href="https://github.com/ArunaKumarGouda">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+**Database**
+<p><img src="https://skillicons.dev/icons?i=mysql&theme=dark" /></p>
 
-<a href="https://www.linkedin.com/in/aruna-kumar-gouda-3997b9359/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+**AI / ML (Learning)**
+<p><img src="https://skillicons.dev/icons?i=py,tensorflow&theme=dark" /></p>
 
-<a href="mailto:arunakumargouda86@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+**Cloud & DevOps (Learning)**
+<p><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes&theme=dark" /></p>
 
-</p>
+**Tools & IDEs**
+<p><img src="https://skillicons.dev/icons?i=git,github,vscode,idea,anaconda&theme=dark" /></p>
 
----
+**Operating Systems**
+<p><img src="https://skillicons.dev/icons?i=windows,linux&theme=dark" /></p>
 
-# 💻 Tech Stack
-
-## 👨‍💻 Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,c,javascript,php"/>
-</p>
-
-## 🎨 Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,react,angular"/>
-</p>
-
-## ⚙ Backend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express"/>
-</p>
-
-## 🗄 Database
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql"/>
-</p>
-
-## 🛠 Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,anaconda"/>
-</p>
-
----
-
-# 🚀 Featured Projects
+<!-- ================================================================ -->
+<!--                        FEATURED PROJECTS                         -->
+<!-- ================================================================ -->
+## 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-## 🛡️ PathGuard
+### 🛡️ PathGuard
+Smart route safety & path monitoring solution focused on reliability and real-time awareness.
 
-IoT-based Soldier Detection & Tracking System with real-time GPS monitoring, ESP32, LoRa communication, React dashboard, and Node.js backend.
+`Java` `Spring Boot` `MySQL`
 
-**Tech Stack**
+**Status:** 🟢 Active Development
 
-`React` `Node.js` `ESP32` `LoRa` `GPS` `Express`
-
-<a href="https://github.com/ArunaKumarGouda/PathGuard">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
-</a>
+[![Repo](https://img.shields.io/badge/Repository-0EA5E9?style=flat-square&logo=github&logoColor=white)](https://github.com/ArunaKumarGouda)
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
+### 🚌 SmartBus Tracker
+Real-time bus tracking system designed to bring live location awareness to daily commuters.
 
-## 🚌 SmartBus Tracker
+`Java` `React` `APIs`
 
-AI-powered smart transportation system with live GPS tracking, ETA prediction, and an interactive dashboard.
+**Status:** 🟢 Active Development
 
-**Tech Stack**
-
-`React` `AI` `GPS` `JavaScript`
+[![Repo](https://img.shields.io/badge/Repository-0EA5E9?style=flat-square&logo=github&logoColor=white)](https://github.com/ArunaKumarGouda)
 
 </td>
-
 </tr>
-
 <tr>
+<td width="50%" valign="top">
 
-<td width="50%">
+### 🔐 File Encryption System
+Secure file encryption/decryption tool built to protect sensitive data with strong cryptographic practices.
 
-## 🔐 File Encryption System
+`Java` `Security` `Algorithms`
 
-Desktop application for secure file encryption and decryption using modern cryptographic algorithms.
+**Status:** 🟢 Stable
 
-**Tech Stack**
-
-`Java` `Security` `File Handling`
-
-</td>
-
-<td width="50%">
-
-## 🚀 More Projects
-
-✔ Java Programs
-
-✔ Python Programs
-
-✔ HTML/CSS/JavaScript
-
-✔ Spring Boot APIs
-
-✔ React Projects
+[![Repo](https://img.shields.io/badge/Repository-0EA5E9?style=flat-square&logo=github&logoColor=white)](https://github.com/ArunaKumarGouda)
 
 </td>
+<td width="50%" valign="top">
 
+### 🌐 Spring Boot APIs
+Collection of production-style REST APIs demonstrating clean architecture and best practices.
+
+`Spring Boot` `REST` `MySQL`
+
+**Status:** 🟢 Growing Collection
+
+[![Repo](https://img.shields.io/badge/Repository-0EA5E9?style=flat-square&logo=github&logoColor=white)](https://github.com/ArunaKumarGouda)
+
+</td>
 </tr>
+<tr>
+<td width="50%" valign="top">
 
+### ⚛️ React Projects
+Frontend applications exploring component-driven design, state management, and modern UI patterns.
+
+`React` `JavaScript` `CSS`
+
+**Status:** 🟢 Ongoing
+
+[![Repo](https://img.shields.io/badge/Repository-0EA5E9?style=flat-square&logo=github&logoColor=white)](https://github.com/ArunaKumarGouda)
+
+</td>
+<td width="50%" valign="top">
+
+### 🐍 Python Projects
+Assorted Python scripts and mini-applications exploring automation, data handling, and AI fundamentals.
+
+`Python` `Automation` `AI`
+
+**Status:** 🟢 Ongoing
+
+[![Repo](https://img.shields.io/badge/Repository-0EA5E9?style=flat-square&logo=github&logoColor=white)](https://github.com/ArunaKumarGouda)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ☕ Java Projects
+Core and advanced Java projects covering OOP design, data structures, and algorithmic problem-solving.
+
+`Java` `DSA` `OOP`
+
+**Status:** 🟢 Ongoing
+
+[![Repo](https://img.shields.io/badge/Repository-0EA5E9?style=flat-square&logo=github&logoColor=white)](https://github.com/ArunaKumarGouda)
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
 </table>
 
----
+<!-- ================================================================ -->
+<!--                        GITHUB ANALYTICS                          -->
+<!-- ================================================================ -->
+## 📊 GitHub Analytics
 
-# 📊 GitHub Statistics
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ArunaKumarGouda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38bdf8&icon_color=22d3ee&text_color=94a3b8" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArunaKumarGouda&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38bdf8&text_color=94a3b8" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArunaKumarGouda&theme=tokyonight&hide_border=true&background=020617&stroke=0ea5e9&ring=38bdf8&fire=22d3ee&currStreakLabel=38bdf8" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArunaKumarGouda&theme=react-dark&hide_border=true&bg_color=020617&color=38bdf8&line=0ea5e9&point=22d3ee" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ArunaKumarGouda&theme=algolia&no-frame=true&column=4&margin-w=10&margin-h=10" />
+</div>
+
+<!-- Contribution Snake - requires GitHub Action, see setup notes below -->
+<div align="center">
+  <img src="./assets/snake.svg" alt="Contribution Snake (generated via GitHub Action)" width="100%"/>
+</div>
+
+<!-- ================================================================ -->
+<!--                        CODING ACTIVITY                           -->
+<!-- ================================================================ -->
+## 💻 Coding Activity
+
+<div align="center">
+
+| Platform | Status |
+|---|---|
+| ⏱️ WakaTime | *Coming soon — integrate via wakatime README stats* |
+| 📰 daily.dev | *Coming soon* |
+| 🟧 LeetCode | *Coming soon* |
+| 🔵 Codeforces | *Coming soon* |
+| 🟢 GeeksforGeeks | *Coming soon* |
+| 🟩 HackerRank | *Coming soon* |
+| ⚫ CodeChef | *Coming soon* |
+
+</div>
+
+<!-- ================================================================ -->
+<!--                          ACHIEVEMENTS                             -->
+<!-- ================================================================ -->
+## 🏆 Achievements
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ArunaKumarGouda&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArunaKumarGouda&layout=compact&theme=tokyonight"/>
-
+  <img src="https://img.shields.io/badge/Projects_Built-7+-0EA5E9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open_Source-Contributor-38BDF8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-Everyday-22D3EE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hackathons-Participant-0EA5E9?style=for-the-badge" />
 </p>
 
----
+<!-- ================================================================ -->
+<!--                          CERTIFICATIONS                          -->
+<!-- ================================================================ -->
+## 🎓 Certifications
 
-## 📈 GitHub Summary
+<table>
+<tr>
+<td align="center" width="33%">
+🏅<br/><b>Java Programming</b><br/><sub>Add certificate link</sub>
+</td>
+<td align="center" width="33%">
+🏅<br/><b>Python for Everybody</b><br/><sub>Add certificate link</sub>
+</td>
+<td align="center" width="33%">
+🏅<br/><b>Web Development</b><br/><sub>Add certificate link</sub>
+</td>
+</tr>
+</table>
 
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArunaKumarGouda&theme=github_dark"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=ArunaKumarGouda&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArunaKumarGouda&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ArunaKumarGouda&theme=tokyonight&row=1&column=7"/>
-
-</p>
-
----
-
-# 📊 Development Focus
+<!-- ================================================================ -->
+<!--                             TIMELINE                             -->
+<!-- ================================================================ -->
+## 🗺️ Learning Journey & Timeline
 
 ```text
-☕ Java          ███████████████████░░ 95%
-🐍 Python        ██████████████████░░░ 90%
-🌱 Spring Boot   ███████████████░░░░░░ 80%
-⚛ React         ██████████████░░░░░░░ 75%
-🗄 MySQL         █████████████████░░░░ 85%
-💻 Git & GitHub  ████████████████████░ 98%
+2022  ●─── Started B.Tech in Computer Science Engineering
+2023  ●─── Learned Java, C, and core programming fundamentals
+2024  ●─── Explored Python, Web Development (HTML/CSS/JS), MySQL
+2025  ●─── Built Spring Boot APIs, React apps & real-world projects
+2026  ●─── Diving into Microservices, Docker, Cloud & Machine Learning
+Next  ●─── Placement-ready Full Stack + AI-powered projects
 ```
 
----
+<!-- ================================================================ -->
+<!--                       DEVELOPMENT ROADMAP                        -->
+<!-- ================================================================ -->
+## 🛤️ Development Roadmap
 
-# 📚 Coding Journey
+- [x] Java & Core Programming
+- [x] Spring Boot Fundamentals
+- [x] React & Frontend Development
+- [ ] Microservices Architecture
+- [ ] Docker & Containerization
+- [ ] AWS Cloud Fundamentals
+- [ ] Kubernetes
+- [ ] Machine Learning & Deep Learning
+- [ ] Data Science Foundations
 
-✔ Daily Java Programming
+<!-- ================================================================ -->
+<!--                          QUOTE SECTION                           -->
+<!-- ================================================================ -->
+<div align="center">
 
-✔ Daily Python Programming
+### 💬
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
-✔ Data Structures & Algorithms
+</div>
 
-✔ Full Stack Development
+<!-- ================================================================ -->
+<!--                            FUN SECTION                            -->
+<!-- ================================================================ -->
+## 🎉 Just for Fun
 
-✔ AI & Data Science
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api" />
+</div>
 
-✔ Real World Projects
+<sub>🗺️ Visitor map & 🎧 Spotify status — placeholders ready to connect once configured.</sub>
 
----
+<!-- ================================================================ -->
+<!--                          SUPPORT SECTION                          -->
+<!-- ================================================================ -->
+## 🤝 Let's Connect
 
-# 📚 Currently Exploring
+<div align="center">
 
-- ☁ Cloud Computing
-- 🐳 Docker
-- 🔄 CI/CD
-- 🏗 Microservices
-- 🤖 Machine Learning
-- 🧠 Deep Learning
-- 📱 Android Development
+[![Email](https://img.shields.io/badge/arunakumargouda86@gmail.com-06B6D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arunakumargouda86@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aruna-kumar-gouda-3997b9359/)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-0EA5E9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArunaKumarGouda)
 
----
+*Always open to collaborating on interesting projects, open source, and new ideas.*
 
-# 🏅 Achievements
+</div>
 
-🏆 400+ Programming Problems Practiced
-
-🚀 Multiple Software Projects
-
-💻 Daily GitHub Contributions
-
-📚 Continuous Learning
-
----
-
-# 💡 Favorite Quote
-
-<p align="center">
-
-> **"Consistency beats talent when talent doesn't stay consistent."**
-
-</p>
-
----
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/aruna-kumar-gouda-3997b9359/">
-LinkedIn
-</a> •
-<a href="https://github.com/ArunaKumarGouda">
-GitHub
-</a> •
-<a href="mailto:arunakumargouda86@gmail.com">
-Email
-</a>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/ArunaKumarGouda/ArunaKumarGouda/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-<h3 align="center">
-
-⭐ Thanks for visiting my profile! ⭐
-
-<br>
-
-Let's connect and build amazing software together 🚀
-
-</h3>
+<!-- ================================================================ -->
+<!--                            FOOTER                                 -->
+<!-- ================================================================ -->
+<div align="center">
+  <img src="./assets/footer.svg" width="100%" alt="footer" />
+</div>
