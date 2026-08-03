@@ -1,20 +1,31 @@
 name: Generate Snake
+
 on:
   schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch: {}
+  workflow_dispatch:
   push:
-    branches: [ main ]
+    branches:
+      - main
+
 jobs:
   generate:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
     steps:
-      - uses: Platane/snk@v3
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate snake
+        uses: Platane/snk@v3
         with:
           github_user_name: ArunaKumarGouda
-          outputs: |
-            assets/snake.svg
-      - uses: actions/checkout@v4
-      - uses: stefanzweifel/git-auto-commit-action@v5
+          outputs: assets/snake.svg
+
+      - name: Commit snake
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: update snake animation"
+          commit_message: "Update contribution snake"
