@@ -203,31 +203,61 @@ Core and advanced Java projects covering OOP design, data structures, and algori
 </table>
 
 <!-- ================================================================ -->
-<!--                        GITHUB ANALYTICS                          -->
+<!--                      📊 GITHUB ANALYTICS                         -->
 <!-- ================================================================ -->
-## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ArunaKumarGouda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38bdf8&icon_color=22d3ee&text_color=94a3b8" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArunaKumarGouda&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38bdf8&text_color=94a3b8" />
-</div>
+<h2 align="center">📊 GitHub Analytics</h2>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArunaKumarGouda&theme=tokyonight&hide_border=true&background=020617&stroke=0ea5e9&ring=38bdf8&fire=22d3ee&currStreakLabel=38bdf8" />
-</div>
+<p align="center">
+  <i>Tracking my coding journey, contributions, and development activity.</i>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArunaKumarGouda&theme=react-dark&hide_border=true&bg_color=020617&color=38bdf8&line=0ea5e9&point=22d3ee" width="100%"/>
-</div>
+<br>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArunaKumarGouda&theme=algolia&no-frame=true&column=4&margin-w=10&margin-h=10" />
-</div>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ArunaKumarGouda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38bdf8&icon_color=22d3ee&text_color=94a3b8"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArunaKumarGouda&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38bdf8&text_color=94a3b8"/>
+</p>
 
-<!-- Contribution Snake - requires GitHub Action, see setup notes below -->
-<div align="center">
-  <img src="./assets/snake.svg" alt="Contribution Snake (generated via GitHub Action)" width="100%"/>
-</div>
+<br>
+
+<p align="center">
+  <img width="75%" src="https://github-readme-streak-stats.herokuapp.com?user=ArunaKumarGouda&theme=tokyonight&hide_border=true&background=020617&stroke=0EA5E9&ring=38BDF8&fire=22D3EE&currStreakLabel=38BDF8"/>
+</p>
+
+<br>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ArunaKumarGouda&theme=react-dark&hide_border=true&bg_color=020617&color=38BDF8&line=0EA5E9&point=22D3EE"/>
+</p>
+
+<br>
+
+<h3 align="center">🏆 GitHub Achievements</h3>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ArunaKumarGouda&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=15"/>
+</p>
+
+<br>
+
+<h3 align="center">🐍 Contribution Snake</h3>
+
+<p align="center">
+  <img src="./assets/snake.svg" width="100%" alt="Contribution Snake Animation"/>
+</p>
+
+<h3 align="center">📈 GitHub Summary</h3>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArunaKumarGouda&theme=github_dark" width="100%">
+</p>
+
+<p align="center">
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArunaKumarGouda&theme=github_dark">
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArunaKumarGouda&theme=github_dark">
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArunaKumarGouda&theme=github_dark&utcOffset=5.5">
+</p>
 
 <!-- ================================================================ -->
 <!--                        CODING ACTIVITY                           -->
