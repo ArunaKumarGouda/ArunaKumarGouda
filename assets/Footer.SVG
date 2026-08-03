@@ -1,0 +1,40 @@
+<svg width="1100" height="160" viewBox="0 0 1100 160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0ea5e9"/>
+      <stop offset="50%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+    <linearGradient id="footBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1100" height="160" fill="url(#footBg)"/>
+  <rect x="2" y="2" width="1096" height="156" rx="14" fill="none" stroke="#0ea5e9" stroke-width="1.5" opacity="0.6">
+    <animate attributeName="opacity" values="0.3;0.9;0.3" dur="3.5s" repeatCount="indefinite"/>
+  </rect>
+
+  <path fill="url(#waveGrad)" opacity="0.25">
+    <animate attributeName="d" dur="6s" repeatCount="indefinite"
+      values="
+      M0,90 C 200,60 400,120 600,90 C 800,60 1000,120 1100,90 L1100,160 L0,160 Z;
+      M0,100 C 200,130 400,70 600,100 C 800,130 1000,70 1100,100 L1100,160 L0,160 Z;
+      M0,90 C 200,60 400,120 600,90 C 800,60 1000,120 1100,90 L1100,160 L0,160 Z" />
+  </path>
+  <path fill="url(#waveGrad)" opacity="0.4">
+    <animate attributeName="d" dur="5s" repeatCount="indefinite"
+      values="
+      M0,110 C 250,80 450,140 700,110 C 850,90 950,130 1100,110 L1100,160 L0,160 Z;
+      M0,120 C 250,150 450,90 700,120 C 850,150 950,90 1100,120 L1100,160 L0,160 Z;
+      M0,110 C 250,80 450,140 700,110 C 850,90 950,130 1100,110 L1100,160 L0,160 Z" />
+  </path>
+
+  <text x="550" y="55" text-anchor="middle" font-family="Segoe UI, Verdana, sans-serif" font-size="20" font-weight="600" fill="#7dd3fc">
+    Thanks for stopping by — let's build something great together 🚀
+  </text>
+  <text x="550" y="80" text-anchor="middle" font-family="monospace" font-size="12" fill="#38bdf8" opacity="0.8">
+    console.log("Every visit is appreciated ✨");
+  </text>
+</svg>
