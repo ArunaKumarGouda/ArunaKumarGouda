@@ -19,13 +19,14 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate snake
+      - name: Generate dark snake
         uses: Platane/snk@v3
         with:
           github_user_name: ArunaKumarGouda
-          outputs: assets/snake.svg
+          outputs: |
+            assets/snake.svg?palette=github-dark
 
       - name: Commit snake
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Update contribution snake"
+          commit_message: "Update dark snake"
