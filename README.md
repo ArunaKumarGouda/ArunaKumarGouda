@@ -46,6 +46,75 @@
 </div>
 
 <!-- ================================================================ -->
+<!--                         ABOUT ME                                -->
+<!-- ================================================================ -->
+
+<h2 align="center">🧠 About Me</h2>
+
+<table align="center">
+<tr>
+
+<!-- ========================= LEFT SIDE ========================== -->
+
+<td width="50%" valign="top">
+
+<h3>👋 Hello, I'm Aruna Kumar Gouda</h3>
+
+<p>
+🎓 <b>B.Tech CSE Student</b><br/>
+💻 <b>Java Full Stack Developer</b><br/>
+📍 Odisha, India
+</p>
+
+<p>
+I enjoy building <b>modern web applications</b> and understanding
+how the frontend, backend, APIs, and database work together.
+</p>
+
+<p>
+My primary stack is
+<b>Java · Spring Boot · React · REST API · MySQL</b>.
+</p>
+
+</td>
+
+<!-- ========================= RIGHT SIDE ========================= -->
+
+<td width="50%" valign="top">
+
+<h3>🚀 What I'm Focused On</h3>
+
+<p>
+• Strengthening <b>Core Java & OOPs</b><br/>
+• Building backend applications with <b>Spring Boot</b><br/>
+• Creating responsive interfaces with <b>React</b><br/>
+• Working with <b>REST APIs & MySQL</b><br/>
+• Practicing <b>DSA & problem solving</b>
+</p>
+
+<h3>🎯 Career Goal</h3>
+
+<p>
+To become a strong <b>Java Full Stack Developer</b> by building
+real-world applications and continuously improving my
+development skills.
+</p>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=600&lines=Learn+%E2%86%92+Build+%E2%86%92+Improve;Turning+Ideas+Into+Real+Applications"
+    alt="Development Philosophy"
+  />
+</p>
+
+<!-- ================================================================ -->
 <!--                         TECH STACK                              -->
 <!-- ================================================================ -->
 
@@ -115,52 +184,6 @@ Git · GitHub · Maven · Postman
   <b>React → REST API → Spring Boot → JPA / Hibernate → MySQL</b>
 </p>
 
-<!-- ================================================================ -->
-<!--                         ABOUT ME                                -->
-<!-- ================================================================ -->
-
-<h2 align="center">🧠 About Me</h2>
-
-<div align="center">
-
-  <p>
-    👋 Hi, I'm <b>Aruna Kumar Gouda</b>
-  </p>
-
-  <p>
-    🎓 B.Tech Computer Science Engineering Student
-    <br/>
-    💻 <b>Java Full Stack Developer</b>
-  </p>
-
-  <p>
-    I build modern and user-focused web applications
-    <br/>
-    using <b>Java, Spring Boot, React, REST APIs, and MySQL</b>.
-  </p>
-
-  <p>
-    🚀 My focus is on learning strong fundamentals, building real-world
-    <br/>
-    projects, and continuously improving my development skills.
-  </p>
-
-  <br/>
-
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Learning+%E2%86%92+Building+%E2%86%92+Improving;Turning+Ideas+Into+Real+Applications;Focused+On+Java+Full+Stack+Development"
-    alt="About Me Animation"
-  />
-
-  <br/><br/>
-
-  🎯 <b>Career Goal</b>
-  <br/>
-  Become a skilled Java Full Stack Developer by building
-  <br/>
-  reliable, scalable, and real-world web applications.
-
-</div>
 
 <!-- ================================================================ -->
 <!--                          CURRENT FOCUS                           -->
@@ -179,35 +202,6 @@ public class CurrentFocus {
     }
 }
 ```
-
-<!-- ================================================================ -->
-<!--                            TECH STACK                            -->
-<!-- ================================================================ -->
-## 🧩 Tech Stack
-
-**Programming Languages**
-<p><img src="https://skillicons.dev/icons?i=java,python,c,js,php&theme=dark" /></p>
-
-**Frontend**
-<p><img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" /></p>
-
-**Backend & Frameworks**
-<p><img src="https://skillicons.dev/icons?i=spring,nodejs,express&theme=dark" /></p>
-
-**Database**
-<p><img src="https://skillicons.dev/icons?i=mysql&theme=dark" /></p>
-
-**AI / ML (Learning)**
-<p><img src="https://skillicons.dev/icons?i=py,tensorflow&theme=dark" /></p>
-
-**Cloud & DevOps (Learning)**
-<p><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes&theme=dark" /></p>
-
-**Tools & IDEs**
-<p><img src="https://skillicons.dev/icons?i=git,github,vscode,idea,anaconda&theme=dark" /></p>
-
-**Operating Systems**
-<p><img src="https://skillicons.dev/icons?i=windows,linux&theme=dark" /></p>
 
 <!-- ================================================================ -->
 <!--                        FEATURED PROJECTS                         -->
