@@ -46,36 +46,95 @@
 </div>
 
 <!-- ================================================================ -->
-<!--                         TECH STACK                               -->
+<!--                         TECH STACK                              -->
 <!-- ================================================================ -->
 
+<h2 align="center">⚡ Tech Stack</h2>
+
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:020617&height=3&section=header"
-    width="100%"
-    alt="Section Divider"
-  />
+  Technologies and tools I use to build modern full-stack applications.
 </p>
 
-<h2 align="center">⚡ Java Full Stack Developer</h2>
+<br/>
+
+<!-- ========================= FRONTEND ============================ -->
+
+<h3 align="center">🎨 Frontend</h3>
 
 <p align="center">
-  <b>Building modern, scalable and user-focused web applications</b>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,mysql,hibernate,maven,git,github,postman" />
+  <code>HTML5</code> •
+  <code>CSS3</code> •
+  <code>JavaScript</code> •
+  <code>React</code>
+</p>
+
+<br/>
+
+<!-- ========================== BACKEND ============================ -->
+
+<h3 align="center">☕ Backend</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring" />
 </p>
 
 <p align="center">
   <code>Java</code> •
   <code>Spring Boot</code> •
   <code>REST API</code> •
-  <code>React</code> •
-  <code>JavaScript</code> •
+  <code>JPA</code> •
+  <code>Hibernate</code>
+</p>
+
+<br/>
+
+<!-- ========================= DATABASE ============================ -->
+
+<h3 align="center">🗄️ Database</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+<p align="center">
   <code>MySQL</code> •
-  <code>JPA / Hibernate</code> •
-  <code>Git</code>
+  <code>SQL</code>
+</p>
+
+<br/>
+
+<!-- =========================== TOOLS ============================= -->
+
+<h3 align="center">🛠️ Tools & Development</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,maven,postman,idea,vscode" />
+</p>
+
+<p align="center">
+  <code>Git</code> •
+  <code>GitHub</code> •
+  <code>Maven</code> •
+  <code>Postman</code> •
+  <code>IntelliJ IDEA</code> •
+  <code>VS Code</code>
+</p>
+
+<br/>
+
+<!-- ====================== FULL STACK FLOW ======================== -->
+
+<h3 align="center">🔗 Full Stack Development</h3>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=React+%E2%86%92+REST+API+%E2%86%92+Spring+Boot+%E2%86%92+JPA%2FHibernate+%E2%86%92+MySQL;Frontend+%E2%86%92+Backend+%E2%86%92+Database;Building+Complete+Web+Applications"
+    alt="Full Stack Development Flow"
+  />
 </p>
 
 <!-- ================================================================ -->
@@ -85,13 +144,6 @@
 <h2 align="center">🧠 About Me</h2>
 
 <div align="center">
-
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0B1226,100:020617&height=2"
-    width="80%"
-  />
-
-  <br/><br/>
 
   <p>
     👋 Hi, I'm <b>Aruna Kumar Gouda</b>
@@ -104,56 +156,16 @@
   </p>
 
   <p>
-    I enjoy building modern and user-friendly web applications
+    I build modern and user-focused web applications
     <br/>
     using <b>Java, Spring Boot, React, REST APIs, and MySQL</b>.
   </p>
 
-  <br/>
-
-  <table>
-    <tr>
-      <td align="center" width="220">
-        <b>☕ Backend</b>
-        <br/><br/>
-        Java
-        <br/>
-        Spring Boot
-        <br/>
-        REST API
-      </td>
-
-      <td align="center" width="220">
-        <b>⚛️ Frontend</b>
-        <br/><br/>
-        React
-        <br/>
-        JavaScript
-        <br/>
-        HTML & CSS
-      </td>
-
-      <td align="center" width="220">
-        <b>🗄️ Database</b>
-        <br/><br/>
-        MySQL
-        <br/>
-        JPA
-        <br/>
-        Hibernate
-      </td>
-
-      <td align="center" width="220">
-        <b>🛠️ Tools</b>
-        <br/><br/>
-        Git & GitHub
-        <br/>
-        Maven
-        <br/>
-        Postman
-      </td>
-    </tr>
-  </table>
+  <p>
+    🚀 My focus is on learning strong fundamentals, building real-world
+    <br/>
+    projects, and continuously improving my development skills.
+  </p>
 
   <br/>
 
@@ -164,10 +176,11 @@
 
   <br/><br/>
 
-  🎯 <b>Career Goal:</b>
+  🎯 <b>Career Goal</b>
   <br/>
   Become a skilled Java Full Stack Developer by building
-  real-world, scalable, and reliable applications.
+  <br/>
+  reliable, scalable, and real-world web applications.
 
 </div>
 
