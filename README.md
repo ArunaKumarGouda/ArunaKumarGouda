@@ -37,20 +37,11 @@
   <br/><br/>
 
   <!-- Profile Metrics -->
-  <img
-    src="https://komarev.com/ghpvc/?username=ArunaKumarGouda&color=0ea5e9&style=for-the-badge&label=PROFILE+VIEWS"
-    alt="Profile Views"
-  />
+  ![Profile Views](https://komarev.com/ghpvc/?username=ArunaKumarGouda&color=0ea5e9&style=for-the-badge&label=PROFILE+VIEWS)
+  ![Followers](https://img.shields.io/github/followers/ArunaKumarGouda?style=for-the-badge&color=38bdf8&label=FOLLOWERS&labelColor=020617)
+  ![Stars](https://img.shields.io/github/stars/ArunaKumarGouda?style=for-the-badge&color=22d3ee&label=STARS&labelColor=020617)
 
-  <img
-    src="https://img.shields.io/github/followers/ArunaKumarGouda?style=for-the-badge&color=38bdf8&label=FOLLOWERS&labelColor=020617"
-    alt="GitHub Followers"
-  />
 
-  <img
-    src="https://img.shields.io/github/stars/ArunaKumarGouda?style=for-the-badge&color=22d3ee&label=STARS&labelColor=020617"
-    alt="GitHub Stars"
-  />
 
 </div>
 
