@@ -52,102 +52,81 @@
 <h2 align="center">⚡ Tech Stack</h2>
 
 <p align="center">
-  <b>Technologies and tools I use to build full-stack applications</b>
+  Technologies I use for Java Full Stack Development
 </p>
 
-<br/>
+<table>
+<tr>
 
-<table align="center">
-  <tr>
+<td width="50%" align="center">
 
-    <!-- FRONTEND -->
-    <td width="50%" valign="top">
+### 🎨 Frontend
 
-      <h3 align="center">🎨 Frontend</h3>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
 
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-      </p>
+<br><br>
 
-      <p align="center">
-        <code>HTML5</code>
-        <code>CSS3</code>
-        <code>JavaScript</code>
-        <code>React</code>
-      </p>
+**HTML5 · CSS3 · JavaScript · React**
 
-    </td>
+</td>
 
-    <!-- BACKEND -->
-    <td width="50%" valign="top">
+<td width="50%" align="center">
 
-      <h3 align="center">☕ Backend</h3>
+### ☕ Backend
 
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=java,spring" />
-      </p>
+<img src="https://skillicons.dev/icons?i=java,spring" />
 
-      <p align="center">
-        <code>Java</code>
-        <code>Spring Boot</code>
-        <code>REST API</code>
-        <code>JPA</code>
-        <code>Hibernate</code>
-      </p>
+<br><br>
 
-    </td>
+**Java · Spring Boot · REST API**
 
-  </tr>
+</td>
 
-  <tr>
+</tr>
 
-    <!-- DATABASE -->
-    <td width="50%" valign="top">
+<tr>
 
-      <h3 align="center">🗄️ Database</h3>
+<td width="50%" align="center">
 
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=mysql" />
-      </p>
+### 🗄️ Database
 
-      <p align="center">
-        <code>MySQL</code>
-        <code>SQL</code>
-        <code>JPA / Hibernate</code>
-      </p>
+<img src="https://skillicons.dev/icons?i=mysql" />
 
-    </td>
+<br><br>
 
-    <!-- TOOLS -->
-    <td width="50%" valign="top">
+**MySQL · SQL · JPA · Hibernate**
 
-      <h3 align="center">🛠️ Tools</h3>
+</td>
 
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=git,github,maven,postman,idea,vscode" />
-      </p>
+<td width="50%" align="center">
 
-      <p align="center">
-        <code>Git</code>
-        <code>GitHub</code>
-        <code>Maven</code>
-        <code>Postman</code>
-        <code>IntelliJ IDEA</code>
-        <code>VS Code</code>
-      </p>
+### 🛠️ Tools
 
-    </td>
+<img src="https://skillicons.dev/icons?i=git,github,maven,postman,idea,vscode" />
 
-  </tr>
+<br><br>
+
+**Git · GitHub · Maven · Postman · IntelliJ IDEA · VS Code**
+
+</td>
+
+</tr>
 </table>
 
-<br/>
+<br>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=React+%E2%86%92+REST+API+%E2%86%92+Spring+Boot+%E2%86%92+JPA%2FHibernate+%E2%86%92+MySQL;Frontend+%E2%86%92+Backend+%E2%86%92+Database;Building+Complete+Full+Stack+Applications"
-    alt="Full Stack Development Flow"
-  />
+  <b>Full Stack Flow</b>
+  <br><br>
+  React
+  &nbsp;→&nbsp;
+  REST API
+  &nbsp;→&nbsp;
+  Spring Boot
+  &nbsp;→&nbsp;
+  JPA / Hibernate
+  &nbsp;→&nbsp;
+  MySQL
 </p>
 
 <!-- ================================================================ -->
