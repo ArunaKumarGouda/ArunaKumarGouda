@@ -6,30 +6,85 @@
 </div>
 
 <!-- ================================================================ -->
-<!--                        PROFESSIONAL HEADER                       -->
+<!--                    JAVA FULL STACK HEADER                       -->
 <!-- ================================================================ -->
+
 <div align="center">
 
+  <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Java+Full+Stack+Developer;Python+Developer+%7C+AI+Enthusiast;Turning+Ideas+Into+Scalable+Software;Always+Learning+%2C+Always+Building" alt="Typing SVG" />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Java+Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React+%7C+MySQL;Building+Scalable+Web+Applications;Designing+Clean+%26+Reliable+Software"
+      alt="Typing SVG"
+    />
   </a>
 
-  <br/>
+  <br/><br/>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aruna-kumar-gouda-3997b9359/)
-  [![Gmail](https://img.shields.io/badge/Email-06B6D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arunakumargouda86@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-0EA5E9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArunaKumarGouda)
+  <!-- Social Links -->
+  <a href="https://www.linkedin.com/in/aruna-kumar-gouda-3997b9359/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 
-  <br/>
+  <a href="mailto:arunakumargouda86@gmail.com">
+    <img src="https://img.shields.io/badge/Email-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=ArunaKumarGouda&color=0ea5e9&style=for-the-badge&label=PROFILE+VIEWS)
-  ![Followers](https://img.shields.io/github/followers/ArunaKumarGouda?style=for-the-badge&color=38bdf8&label=FOLLOWERS&labelColor=020617)
-  ![Stars](https://img.shields.io/github/stars/ArunaKumarGouda?style=for-the-badge&color=22d3ee&label=STARS&labelColor=020617)
+  <a href="https://github.com/ArunaKumarGouda">
+    <img src="https://img.shields.io/badge/GitHub-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+  <br/><br/>
+
+  <!-- Profile Metrics -->
+  <img
+    src="https://komarev.com/ghpvc/?username=ArunaKumarGouda&color=0ea5e9&style=for-the-badge&label=PROFILE+VIEWS"
+    alt="Profile Views"
+  />
+
+  <img
+    src="https://img.shields.io/github/followers/ArunaKumarGouda?style=for-the-badge&color=38bdf8&label=FOLLOWERS&labelColor=020617"
+    alt="GitHub Followers"
+  />
+
+  <img
+    src="https://img.shields.io/github/stars/ArunaKumarGouda?style=for-the-badge&color=22d3ee&label=STARS&labelColor=020617"
+    alt="GitHub Stars"
+  />
 
 </div>
 
+<!-- ================================================================ -->
+<!--                         TECH STACK                               -->
+<!-- ================================================================ -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:020617&height=3&section=header" width="100%"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:020617&height=3&section=header"
+    width="100%"
+    alt="Section Divider"
+  />
+</p>
+
+<h2 align="center">⚡ Java Full Stack Developer</h2>
+
+<p align="center">
+  <b>Building modern, scalable and user-focused web applications</b>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,mysql,hibernate,maven,git,github,postman" />
+</p>
+
+<p align="center">
+  <code>Java</code> •
+  <code>Spring Boot</code> •
+  <code>REST API</code> •
+  <code>React</code> •
+  <code>JavaScript</code> •
+  <code>MySQL</code> •
+  <code>JPA / Hibernate</code> •
+  <code>Git</code>
 </p>
 
 <!-- ================================================================ -->
