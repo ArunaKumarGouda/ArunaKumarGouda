@@ -1,110 +1,276 @@
 <svg width="1100" height="300" viewBox="0 0 1100 300" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#020617"/>
-      <stop offset="50%" stop-color="#0b1226"/>
+      <stop offset="50%" stop-color="#0b1829"/>
       <stop offset="100%" stop-color="#020617"/>
     </linearGradient>
-    <linearGradient id="neonGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00f5ff"/>
-      <stop offset="50%" stop-color="#3b82f6"/>
-      <stop offset="100%" stop-color="#06b6d4"/>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#e0f7ff"/>
+      <stop offset="55%"  stop-color="#7dd3fc"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
     </linearGradient>
-    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#7dd3fc"/>
-      <stop offset="50%" stop-color="#38bdf8"/>
-      <stop offset="100%" stop-color="#22d3ee"/>
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#00d4ff" stop-opacity="0.9"/>
+      <stop offset="45%"  stop-color="#2563eb" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#00d4ff" stop-opacity="0.9"/>
     </linearGradient>
-    <radialGradient id="glow" cx="50%" cy="50%" r="60%">
-      <stop offset="0%" stop-color="#0ea5e9" stop-opacity="0.35"/>
-      <stop offset="100%" stop-color="#0ea5e9" stop-opacity="0"/>
-    </radialGradient>
-    <filter id="softBlur"><feGaussianBlur stdDeviation="2.2"/></filter>
+    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="titleGlow" x="-10%" y="-60%" width="120%" height="220%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="ambient" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="28"/>
+    </filter>
+    <clipPath id="clip">
+      <rect width="1100" height="300" rx="18"/>
+    </clipPath>
   </defs>
 
-  <!-- background -->
-  <rect width="1100" height="300" rx="18" fill="url(#bgGrad)"/>
-  <rect width="1100" height="300" rx="18" fill="url(#glow)">
-    <animate attributeName="opacity" values="0.5;1;0.5" dur="4s" repeatCount="indefinite"/>
+  <!-- Base -->
+  <rect width="1100" height="300" rx="18" fill="url(#bg)"/>
+
+  <!-- Ambient blobs -->
+  <ellipse cx="230" cy="150" rx="200" ry="110" fill="#0ea5e9" opacity="0.04" filter="url(#ambient)"/>
+  <ellipse cx="860" cy="150" rx="180" ry="100" fill="#2563eb" opacity="0.05" filter="url(#ambient)"/>
+
+  <g clip-path="url(#clip)">
+
+    <!-- ── BACKGROUND CODE (very faint texture) ── -->
+    <g font-family="monospace" font-size="10" fill="#38bdf8" opacity="0.06" letter-spacing="0.3">
+      <text x="28" y="50">@RestController</text>
+      <text x="28" y="65">@GetMapping("/api")</text>
+      <text x="28" y="80">public String build() {</text>
+      <text x="28" y="95">  return "Deploy";</text>
+      <text x="28" y="110">}</text>
+      <text x="28" y="185">@SpringBootApplication</text>
+      <text x="28" y="200">public class App {</text>
+      <text x="28" y="215">  // Full Stack</text>
+      <text x="28" y="230">}</text>
+    </g>
+
+    <!-- ── SUBTLE PARTICLES (left) ── -->
+    <circle cx="74" cy="62" r="1.3" fill="#00d4ff" opacity="0.4">
+      <animate attributeName="cy" values="62;46;62" dur="4.4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.4;0.85;0.4" dur="4.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="160" cy="215" r="0.9" fill="#38bdf8" opacity="0.35">
+      <animate attributeName="cy" values="215;200;215" dur="5.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="455" cy="78" r="1.0" fill="#22d3ee" opacity="0.35">
+      <animate attributeName="cy" values="78;62;78" dur="3.9s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- ════════════════════════════
+         LEFT — TEXT
+         ════════════════════════════ -->
+
+    <!-- Name -->
+    <text
+      x="50" y="102"
+      font-family="'Segoe UI', Arial, sans-serif"
+      font-size="36" font-weight="700"
+      fill="url(#nameGrad)" filter="url(#titleGlow)"
+      letter-spacing="0.5" opacity="0">
+      Aruna Kumar Gouda
+      <animate attributeName="opacity" values="0;1" dur="1s" begin="0.15s" fill="freeze"/>
+    </text>
+
+    <!-- Role -->
+    <text
+      x="51" y="134"
+      font-family="'Segoe UI', Arial, sans-serif"
+      font-size="14" font-weight="500"
+      fill="#7dd3fc" letter-spacing="1.4" opacity="0">
+      Java Full Stack Developer · Spring Boot · React
+      <animate attributeName="opacity" values="0;1" dur="1s" begin="0.4s" fill="freeze"/>
+    </text>
+
+    <!-- Divider -->
+    <line x1="51" y1="150" x2="310" y2="150" stroke="#00d4ff" stroke-width="0.6" stroke-opacity="0.28"/>
+
+    <!-- Tagline -->
+    <text
+      x="51" y="172"
+      font-family="'Segoe UI', Arial, sans-serif"
+      font-size="11.5" font-weight="400"
+      fill="#64748b" letter-spacing="0.3" opacity="0">
+      Building scalable applications from database to UI.
+      <animate attributeName="opacity" values="0;1" dur="1s" begin="0.6s" fill="freeze"/>
+    </text>
+
+    <!-- Tech pills -->
+    <g opacity="0" font-family="'Segoe UI', Arial, sans-serif" font-size="9.5" font-weight="600" letter-spacing="0.6">
+      <animate attributeName="opacity" values="0;1" dur="0.9s" begin="0.8s" fill="freeze"/>
+      <rect x="51"  y="188" width="44" height="17" rx="8" fill="#00d4ff" fill-opacity="0.09" stroke="#00d4ff" stroke-width="0.7" stroke-opacity="0.4"/>
+      <text x="73"  y="200.5" text-anchor="middle" fill="#00d4ff">Java</text>
+
+      <rect x="102" y="188" width="78" height="17" rx="8" fill="#22d3ee" fill-opacity="0.08" stroke="#22d3ee" stroke-width="0.7" stroke-opacity="0.4"/>
+      <text x="141" y="200.5" text-anchor="middle" fill="#22d3ee">Spring Boot</text>
+
+      <rect x="187" y="188" width="46" height="17" rx="8" fill="#38bdf8" fill-opacity="0.08" stroke="#38bdf8" stroke-width="0.7" stroke-opacity="0.4"/>
+      <text x="210" y="200.5" text-anchor="middle" fill="#38bdf8">React</text>
+
+      <rect x="240" y="188" width="50" height="17" rx="8" fill="#06b6d4" fill-opacity="0.08" stroke="#06b6d4" stroke-width="0.7" stroke-opacity="0.4"/>
+      <text x="265" y="200.5" text-anchor="middle" fill="#06b6d4">MySQL</text>
+
+      <rect x="297" y="188" width="66" height="17" rx="8" fill="#3b82f6" fill-opacity="0.08" stroke="#3b82f6" stroke-width="0.7" stroke-opacity="0.4"/>
+      <text x="330" y="200.5" text-anchor="middle" fill="#3b82f6">REST API</text>
+    </g>
+
+    <!-- { } subtle Java mark -->
+    <text
+      x="51" y="268"
+      font-family="monospace" font-size="16" font-weight="700"
+      fill="#00d4ff" filter="url(#softGlow)" opacity="0.45" letter-spacing="4">
+      { }
+      <animate attributeName="opacity" values="0.45;0.7;0.45" dur="4s" repeatCount="indefinite"/>
+    </text>
+
+    <!-- ── DIVIDER ── -->
+    <line x1="570" y1="28" x2="570" y2="272" stroke="#1e3f6e" stroke-width="0.7" stroke-opacity="0.22"/>
+
+    <!-- ════════════════════════════
+         RIGHT — ABSTRACT STACK VISUAL
+         A single clean vertical tower: 5 layered
+         glowing slabs, each labeled. Simple and premium.
+         Center x=830, slabs from y=36 to y=264
+         ════════════════════════════ -->
+
+    <!-- Section label -->
+    <text x="830" y="26" text-anchor="middle"
+          font-family="'Segoe UI', Arial, sans-serif"
+          font-size="8" font-weight="500"
+          fill="#334155" letter-spacing="2">FULL STACK</text>
+
+    <!-- Slab 1 — React / Frontend -->
+    <g filter="url(#softGlow)">
+      <rect x="686" y="36" width="288" height="42" rx="8"
+            fill="#06b6d4" fill-opacity="0.10" stroke="#06b6d4" stroke-width="1"/>
+    </g>
+    <!-- orbit ring decoration on React slab -->
+    <ellipse cx="714" cy="57" rx="12" ry="4" fill="none" stroke="#06b6d4" stroke-width="0.8" stroke-opacity="0.5">
+      <animateTransform attributeName="transform" type="rotate" from="0 714 57" to="360 714 57" dur="4s" repeatCount="indefinite"/>
+    </ellipse>
+    <circle cx="726" cy="57" r="2" fill="#06b6d4" opacity="0.7">
+      <animateTransform attributeName="transform" type="rotate" from="0 714 57" to="360 714 57" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <text x="752" y="53" font-family="'Segoe UI', Arial, sans-serif"
+          font-size="13" font-weight="700" fill="#06b6d4">React</text>
+    <text x="752" y="68" font-family="'Segoe UI', Arial, sans-serif"
+          font-size="9" font-weight="400" fill="#475569" letter-spacing="0.8">Frontend</text>
+
+    <!-- Connector 1→2 -->
+    <line x1="830" y1="78" x2="830" y2="93" stroke="#00d4ff" stroke-width="0.8" stroke-opacity="0.3" stroke-dasharray="3,2"/>
+    <circle r="2" fill="#00d4ff" opacity="0.8" filter="url(#softGlow)">
+      <animateMotion path="M830,78 L830,93" dur="1.6s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- Slab 2 — REST API -->
+    <rect x="700" y="93" width="260" height="40" rx="8"
+          fill="#0ea5e9" fill-opacity="0.09" stroke="#0ea5e9" stroke-width="0.9"/>
+    <text x="830" y="109" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif"
+          font-size="13" font-weight="700" fill="#38bdf8">REST API</text>
+    <text x="830" y="122" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif"
+          font-size="9" font-weight="400" fill="#475569" letter-spacing="0.8">API Layer</text>
+
+    <!-- Connector 2→3 -->
+    <line x1="830" y1="133" x2="830" y2="148" stroke="#00d4ff" stroke-width="0.8" stroke-opacity="0.3" stroke-dasharray="3,2"/>
+    <circle r="2" fill="#22d3ee" opacity="0.8" filter="url(#softGlow)">
+      <animateMotion path="M830,133 L830,148" dur="1.6s" begin="0.45s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- Slab 3 — Spring Boot (primary, brighter) -->
+    <g filter="url(#softGlow)">
+      <rect x="690" y="148" width="280" height="44" rx="8"
+            fill="#22d3ee" fill-opacity="0.13" stroke="#22d3ee" stroke-width="1.3"/>
+    </g>
+    <!-- subtle pulse ring -->
+    <rect x="686" y="144" width="288" height="52" rx="11"
+          fill="none" stroke="#22d3ee" stroke-width="0.5" stroke-opacity="0.15">
+      <animate attributeName="stroke-opacity" values="0.15;0.4;0.15" dur="2.6s" repeatCount="indefinite"/>
+    </rect>
+    <!-- leaf marks -->
+    <path d="M714,161 Q720,153 729,158" stroke="#22d3ee" stroke-width="1.2" fill="none" stroke-linecap="round" opacity="0.7"/>
+    <path d="M716,167 Q722,159 731,164" stroke="#22d3ee" stroke-width="0.8" fill="none" stroke-linecap="round" opacity="0.4"/>
+    <text x="752" y="165" font-family="'Segoe UI', Arial, sans-serif"
+          font-size="14" font-weight="700" fill="#22d3ee">Spring Boot</text>
+    <text x="752" y="181" font-family="'Segoe UI', Arial, sans-serif"
+          font-size="9" font-weight="400" fill="#475569" letter-spacing="0.8">Backend</text>
+
+    <!-- Connector 3→4 -->
+    <line x1="830" y1="192" x2="830" y2="206" stroke="#00d4ff" stroke-width="0.8" stroke-opacity="0.3" stroke-dasharray="3,2"/>
+    <circle r="2" fill="#38bdf8" opacity="0.8" filter="url(#softGlow)">
+      <animateMotion path="M830,192 L830,206" dur="1.6s" begin="0.9s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- Slab 4 — JPA / Hibernate -->
+    <rect x="706" y="206" width="248" height="38" rx="8"
+          fill="#3b82f6" fill-opacity="0.08" stroke="#3b82f6" stroke-width="0.9"/>
+    <text x="830" y="221" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif"
+          font-size="12" font-weight="700" fill="#60a5fa">JPA / Hibernate</text>
+    <text x="830" y="234" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif"
+          font-size="9" font-weight="400" fill="#475569" letter-spacing="0.8">Persistence</text>
+
+    <!-- Connector 4→5 -->
+    <line x1="830" y1="244" x2="830" y2="257" stroke="#00d4ff" stroke-width="0.8" stroke-opacity="0.3" stroke-dasharray="3,2"/>
+    <circle r="2" fill="#38bdf8" opacity="0.8" filter="url(#softGlow)">
+      <animateMotion path="M830,244 L830,257" dur="1.6s" begin="1.35s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- Slab 5 — MySQL cylinder -->
+    <!-- body -->
+    <rect x="794" y="261" width="72" height="22" rx="2"
+          fill="#38bdf8" fill-opacity="0.09" stroke="#38bdf8" stroke-width="1"/>
+    <!-- top cap -->
+    <ellipse cx="830" cy="261" rx="36" ry="6"
+             fill="#0a1e35" stroke="#38bdf8" stroke-width="1"/>
+    <!-- bottom arc -->
+    <ellipse cx="830" cy="283" rx="36" ry="6"
+             fill="none" stroke="#38bdf8" stroke-width="0.6" stroke-opacity="0.3"/>
+    <!-- side lines -->
+    <line x1="794" y1="261" x2="794" y2="283" stroke="#38bdf8" stroke-width="1"/>
+    <line x1="866" y1="261" x2="866" y2="283" stroke="#38bdf8" stroke-width="1"/>
+    <text x="830" y="276" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif"
+          font-size="10" font-weight="700" fill="#38bdf8">Database</text>
+    <!-- pulse -->
+    <ellipse cx="830" cy="272" rx="40" ry="15"
+             fill="none" stroke="#38bdf8" stroke-width="0.4" stroke-opacity="0.12">
+      <animate attributeName="stroke-opacity" values="0.12;0.35;0.12" dur="3s" repeatCount="indefinite"/>
+    </ellipse>
+
+    <!-- Sparse right particles -->
+    <circle cx="964" cy="58" r="1.2" fill="#22d3ee" opacity="0.4">
+      <animate attributeName="cy" values="58;44;58" dur="4.8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.4;0.8;0.4" dur="4.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1062" cy="228" r="1.0" fill="#00d4ff" opacity="0.35">
+      <animate attributeName="cy" values="228;212;228" dur="5.3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="975" cy="252" r="0.8" fill="#38bdf8" opacity="0.35">
+      <animate attributeName="cy" values="252;238;252" dur="4s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- Sparse dot grid corners (right side only) -->
+    <g fill="#38bdf8" opacity="0.08">
+      <circle cx="960" cy="46" r="1"/><circle cx="980" cy="46" r="1"/><circle cx="1000" cy="46" r="1"/>
+      <circle cx="960" cy="62" r="1"/><circle cx="980" cy="62" r="1"/><circle cx="1000" cy="62" r="1"/>
+      <circle cx="960" cy="248" r="1"/><circle cx="980" cy="248" r="1"/><circle cx="1000" cy="248" r="1"/>
+      <circle cx="960" cy="264" r="1"/><circle cx="980" cy="264" r="1"/><circle cx="1000" cy="264" r="1"/>
+    </g>
+
+  </g>
+
+  <!-- Animated border -->
+  <rect x="1" y="1" width="1098" height="298" rx="17"
+        fill="none" stroke="url(#borderGrad)" stroke-width="1.4" opacity="0.75">
+    <animate attributeName="opacity" values="0.75;1;0.75" dur="3s" repeatCount="indefinite"/>
   </rect>
+  <rect x="0.5" y="0.5" width="1099" height="299" rx="18"
+        fill="none" stroke="#00d4ff" stroke-width="0.35" opacity="0.15"/>
 
-  <!-- neon border -->
-  <rect x="3" y="3" width="1094" height="294" rx="16" fill="none" stroke="url(#neonGrad)" stroke-width="2" opacity="0.8">
-    <animate attributeName="opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite"/>
-  </rect>
-
-  <!-- floating particles -->
-  <circle cx="80" cy="60" r="3" fill="#38bdf8" filter="url(#softBlur)">
-    <animate attributeName="cy" values="60;40;60" dur="5s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="150" cy="220" r="2.5" fill="#22d3ee" filter="url(#softBlur)">
-    <animate attributeName="cy" values="220;195;220" dur="6s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="1000" cy="50" r="3" fill="#0ea5e9" filter="url(#softBlur)">
-    <animate attributeName="cy" values="50;75;50" dur="4.5s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="960" cy="240" r="2" fill="#7dd3fc" filter="url(#softBlur)">
-    <animate attributeName="cy" values="240;215;240" dur="5.5s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="550" cy="30" r="2" fill="#38bdf8" filter="url(#softBlur)">
-    <animate attributeName="cx" values="550;600;550" dur="7s" repeatCount="indefinite"/>
-  </circle>
-
-  <!-- faint code lines (glassmorphism panel) -->
-  <g opacity="0.16" font-family="monospace" font-size="12" fill="#7dd3fc">
-    <text x="40" y="100">public class Developer {</text>
-    <text x="60" y="118">while (true) build();</text>
-    <text x="40" y="136">}</text>
-    <text x="830" y="270">const passion = "code";</text>
-  </g>
-
-  <!-- rotating ring (react-style orbit) -->
-  <g transform="translate(970,150)">
-    <ellipse cx="0" cy="0" rx="55" ry="20" fill="none" stroke="#38bdf8" stroke-width="1.4" opacity="0.7">
-      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="8s" repeatCount="indefinite"/>
-    </ellipse>
-    <ellipse cx="0" cy="0" rx="55" ry="20" fill="none" stroke="#22d3ee" stroke-width="1.4" opacity="0.7" transform="rotate(60)">
-      <animateTransform attributeName="transform" type="rotate" from="60" to="420" dur="8s" repeatCount="indefinite"/>
-    </ellipse>
-    <ellipse cx="0" cy="0" rx="55" ry="20" fill="none" stroke="#0ea5e9" stroke-width="1.4" opacity="0.7" transform="rotate(120)">
-      <animateTransform attributeName="transform" type="rotate" from="120" to="480" dur="8s" repeatCount="indefinite"/>
-    </ellipse>
-    <circle cx="0" cy="0" r="6" fill="#38bdf8"/>
-  </g>
-
-  <!-- neural network hint -->
-  <g stroke="#0ea5e9" stroke-width="1" opacity="0.5">
-    <line x1="820" y1="60" x2="870" y2="90"><animate attributeName="opacity" values="0.2;0.8;0.2" dur="3s" repeatCount="indefinite"/></line>
-    <line x1="820" y1="120" x2="870" y2="90"><animate attributeName="opacity" values="0.8;0.2;0.8" dur="3s" repeatCount="indefinite"/></line>
-    <line x1="870" y1="90" x2="915" y2="70"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/></line>
-  </g>
-  <circle cx="820" cy="60" r="3" fill="#22d3ee"/>
-  <circle cx="820" cy="120" r="3" fill="#22d3ee"/>
-  <circle cx="870" cy="90" r="4" fill="#38bdf8"/>
-  <circle cx="915" cy="70" r="3" fill="#22d3ee"/>
-
-  <!-- main name -->
-  <text x="55" y="150" font-family="Segoe UI, Verdana, sans-serif" font-size="46" font-weight="700" fill="url(#textGrad)">
-    Aruna Kumar Gouda
-    <animate attributeName="opacity" values="0;1" dur="1.2s" fill="freeze"/>
-  </text>
-
-  <!-- subtitle -->
-  <text x="57" y="185" font-family="Segoe UI, Verdana, sans-serif" font-size="18" fill="#94a3b8">
-    Java Full Stack Developer · Python Developer · AI Enthusiast
-  </text>
-
-  <!-- tagline -->
-  <text x="57" y="215" font-family="monospace" font-size="14" fill="#38bdf8">
-    Building clean, scalable software — one commit at a time.
-  </text>
-
-  <!-- CTA pills -->
-  <g font-family="Segoe UI, sans-serif" font-size="13" font-weight="600">
-    <rect x="57" y="235" width="150" height="34" rx="17" fill="none" stroke="url(#neonGrad)" stroke-width="1.5"/>
-    <text x="132" y="257" fill="#e0f2fe" text-anchor="middle">View Projects</text>
-
-    <rect x="222" y="235" width="150" height="34" rx="17" fill="url(#neonGrad)" opacity="0.9"/>
-    <text x="297" y="257" fill="#020617" text-anchor="middle">Let's Connect</text>
-  </g>
 </svg>
