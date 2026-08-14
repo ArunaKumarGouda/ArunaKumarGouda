@@ -79,24 +79,97 @@
 </p>
 
 <!-- ================================================================ -->
-<!--                            ABOUT ME                               -->
+<!--                         ABOUT ME                                -->
 <!-- ================================================================ -->
-## 🧠 About Me
 
-```yaml
-name: "Aruna Kumar Gouda"
-location: "Odisha, India"
-education: "B.Tech - Computer Science Engineering"
-role: "Java Full Stack Developer | Python Developer | AI Enthusiast"
-mission: "Build clean, scalable, and impactful software"
-currently_learning: ["Microservices", "Docker", "Cloud", "CI/CD", "Machine Learning", "Deep Learning"]
-philosophy: "Write code that is simple to read, easy to scale, and built to last"
-```
+<h2 align="center">🧠 About Me</h2>
 
-- 🎯 **Career Goal** — Grow into a versatile full-stack engineer who ships production-grade systems and contributes meaningfully to open source.
-- 📚 **Currently Exploring** — Microservices architecture, containerization with Docker, cloud fundamentals, and the foundations of Machine Learning & Deep Learning.
-- 🛠️ **Strengths** — Strong problem-solving mindset, clean coding practices, fast adaptability to new tech stacks, and a genuine curiosity for how things work under the hood.
-- 💡 **Development Philosophy** — Readable code today saves debugging time tomorrow. I build for clarity first, performance second, and always with the next developer in mind.
+<div align="center">
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0B1226,100:020617&height=2"
+    width="80%"
+  />
+
+  <br/><br/>
+
+  <p>
+    👋 Hi, I'm <b>Aruna Kumar Gouda</b>
+  </p>
+
+  <p>
+    🎓 B.Tech Computer Science Engineering Student
+    <br/>
+    💻 <b>Java Full Stack Developer</b>
+  </p>
+
+  <p>
+    I enjoy building modern and user-friendly web applications
+    <br/>
+    using <b>Java, Spring Boot, React, REST APIs, and MySQL</b>.
+  </p>
+
+  <br/>
+
+  <table>
+    <tr>
+      <td align="center" width="220">
+        <b>☕ Backend</b>
+        <br/><br/>
+        Java
+        <br/>
+        Spring Boot
+        <br/>
+        REST API
+      </td>
+
+      <td align="center" width="220">
+        <b>⚛️ Frontend</b>
+        <br/><br/>
+        React
+        <br/>
+        JavaScript
+        <br/>
+        HTML & CSS
+      </td>
+
+      <td align="center" width="220">
+        <b>🗄️ Database</b>
+        <br/><br/>
+        MySQL
+        <br/>
+        JPA
+        <br/>
+        Hibernate
+      </td>
+
+      <td align="center" width="220">
+        <b>🛠️ Tools</b>
+        <br/><br/>
+        Git & GitHub
+        <br/>
+        Maven
+        <br/>
+        Postman
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Learning+%E2%86%92+Building+%E2%86%92+Improving;Turning+Ideas+Into+Real+Applications;Focused+On+Java+Full+Stack+Development"
+    alt="About Me Animation"
+  />
+
+  <br/><br/>
+
+  🎯 <b>Career Goal:</b>
+  <br/>
+  Become a skilled Java Full Stack Developer by building
+  real-world, scalable, and reliable applications.
+
+</div>
 
 <!-- ================================================================ -->
 <!--                          CURRENT FOCUS                           -->
