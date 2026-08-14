@@ -52,87 +52,100 @@
 <h2 align="center">⚡ Tech Stack</h2>
 
 <p align="center">
-  Technologies and tools I use to build modern full-stack applications.
+  <b>Technologies and tools I use to build full-stack applications</b>
 </p>
 
 <br/>
 
-<!-- ========================= FRONTEND ============================ -->
+<table align="center">
+  <tr>
 
-<h3 align="center">🎨 Frontend</h3>
+    <!-- FRONTEND -->
+    <td width="50%" valign="top">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
+      <h3 align="center">🎨 Frontend</h3>
 
-<p align="center">
-  <code>HTML5</code> •
-  <code>CSS3</code> •
-  <code>JavaScript</code> •
-  <code>React</code>
-</p>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+      </p>
+
+      <p align="center">
+        <code>HTML5</code>
+        <code>CSS3</code>
+        <code>JavaScript</code>
+        <code>React</code>
+      </p>
+
+    </td>
+
+    <!-- BACKEND -->
+    <td width="50%" valign="top">
+
+      <h3 align="center">☕ Backend</h3>
+
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=java,spring" />
+      </p>
+
+      <p align="center">
+        <code>Java</code>
+        <code>Spring Boot</code>
+        <code>REST API</code>
+        <code>JPA</code>
+        <code>Hibernate</code>
+      </p>
+
+    </td>
+
+  </tr>
+
+  <tr>
+
+    <!-- DATABASE -->
+    <td width="50%" valign="top">
+
+      <h3 align="center">🗄️ Database</h3>
+
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=mysql" />
+      </p>
+
+      <p align="center">
+        <code>MySQL</code>
+        <code>SQL</code>
+        <code>JPA / Hibernate</code>
+      </p>
+
+    </td>
+
+    <!-- TOOLS -->
+    <td width="50%" valign="top">
+
+      <h3 align="center">🛠️ Tools</h3>
+
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=git,github,maven,postman,idea,vscode" />
+      </p>
+
+      <p align="center">
+        <code>Git</code>
+        <code>GitHub</code>
+        <code>Maven</code>
+        <code>Postman</code>
+        <code>IntelliJ IDEA</code>
+        <code>VS Code</code>
+      </p>
+
+    </td>
+
+  </tr>
+</table>
 
 <br/>
-
-<!-- ========================== BACKEND ============================ -->
-
-<h3 align="center">☕ Backend</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring" />
-</p>
-
-<p align="center">
-  <code>Java</code> •
-  <code>Spring Boot</code> •
-  <code>REST API</code> •
-  <code>JPA</code> •
-  <code>Hibernate</code>
-</p>
-
-<br/>
-
-<!-- ========================= DATABASE ============================ -->
-
-<h3 align="center">🗄️ Database</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-<p align="center">
-  <code>MySQL</code> •
-  <code>SQL</code>
-</p>
-
-<br/>
-
-<!-- =========================== TOOLS ============================= -->
-
-<h3 align="center">🛠️ Tools & Development</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,maven,postman,idea,vscode" />
-</p>
-
-<p align="center">
-  <code>Git</code> •
-  <code>GitHub</code> •
-  <code>Maven</code> •
-  <code>Postman</code> •
-  <code>IntelliJ IDEA</code> •
-  <code>VS Code</code>
-</p>
-
-<br/>
-
-<!-- ====================== FULL STACK FLOW ======================== -->
-
-<h3 align="center">🔗 Full Stack Development</h3>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=React+%E2%86%92+REST+API+%E2%86%92+Spring+Boot+%E2%86%92+JPA%2FHibernate+%E2%86%92+MySQL;Frontend+%E2%86%92+Backend+%E2%86%92+Database;Building+Complete+Web+Applications"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=React+%E2%86%92+REST+API+%E2%86%92+Spring+Boot+%E2%86%92+JPA%2FHibernate+%E2%86%92+MySQL;Frontend+%E2%86%92+Backend+%E2%86%92+Database;Building+Complete+Full+Stack+Applications"
     alt="Full Stack Development Flow"
   />
 </p>
