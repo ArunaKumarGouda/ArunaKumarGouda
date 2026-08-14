@@ -55,58 +55,54 @@
   Technologies I use for Java Full Stack Development
 </p>
 
-<table>
+<table align="center">
 <tr>
 
-<td width="50%" align="center">
+<td width="25%" align="center">
 
-### 🎨 Frontend
+<h3>🎨 Frontend</h3>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 
 <br><br>
 
-**HTML5 · CSS3 · JavaScript · React**
+HTML · CSS · JavaScript · React
 
 </td>
 
-<td width="50%" align="center">
+<td width="25%" align="center">
 
-### ☕ Backend
+<h3>☕ Backend</h3>
 
 <img src="https://skillicons.dev/icons?i=java,spring" />
 
 <br><br>
 
-**Java · Spring Boot · REST API**
+Java · Spring Boot · REST API
 
 </td>
 
-</tr>
+<td width="25%" align="center">
 
-<tr>
-
-<td width="50%" align="center">
-
-### 🗄️ Database
+<h3>🗄️ Database</h3>
 
 <img src="https://skillicons.dev/icons?i=mysql" />
 
 <br><br>
 
-**MySQL · SQL · JPA · Hibernate**
+MySQL · SQL · JPA · Hibernate
 
 </td>
 
-<td width="50%" align="center">
+<td width="25%" align="center">
 
-### 🛠️ Tools
+<h3>🛠️ Tools</h3>
 
-<img src="https://skillicons.dev/icons?i=git,github,maven,postman,idea,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,maven,postman" />
 
 <br><br>
 
-**Git · GitHub · Maven · Postman · IntelliJ IDEA · VS Code**
+Git · GitHub · Maven · Postman
 
 </td>
 
@@ -116,17 +112,7 @@
 <br>
 
 <p align="center">
-  <b>Full Stack Flow</b>
-  <br><br>
-  React
-  &nbsp;→&nbsp;
-  REST API
-  &nbsp;→&nbsp;
-  Spring Boot
-  &nbsp;→&nbsp;
-  JPA / Hibernate
-  &nbsp;→&nbsp;
-  MySQL
+  <b>React → REST API → Spring Boot → JPA / Hibernate → MySQL</b>
 </p>
 
 <!-- ================================================================ -->
