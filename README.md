@@ -187,90 +187,121 @@ Git · GitHub · Maven · Postman
 
 <!-- ================================================================ -->
 
-<!--                         CURRENT FOCUS                           -->
+<!--                    🎯 CURRENT FOCUS                             -->
 
 <!-- ================================================================ -->
 
 <h2 align="center">🎯 Current Focus</h2>
 
 <p align="center">
-  <i>Currently focused on becoming a strong Java Full Stack Developer</i>
+  <i>My current journey towards becoming a Java Full Stack Developer</i>
 </p>
 
 <br>
 
-<table align="center">
+<div align="center">
+
+<table>
 <tr>
+<td align="center" width="180">
 
-<td width="33%" align="center">
-
-<h3>☕ Java Backend</h3>
-
-<img src="https://skillicons.dev/icons?i=java,spring" />
-
-<br><br>
-
-<b>Core Java</b><br>
-OOPs · Collections · Exception Handling<br>
-Spring Boot · REST APIs
+<h2>☕</h2>
+<b>JAVA</b>
+<br>
+<sub>Core • OOPs • DSA</sub>
 
 </td>
 
-<td width="33%" align="center">
+<td align="center" width="180">
 
-<h3>⚛️ Full Stack</h3>
-
-<img src="https://skillicons.dev/icons?i=react,js,mysql" />
-
-<br><br>
-
-<b>Frontend + Database</b><br>
-React · JavaScript · SQL<br>
-MySQL · JPA · Hibernate
+<h2>🌱</h2>
+<b>SPRING BOOT</b>
+<br>
+<sub>Backend • REST APIs</sub>
 
 </td>
 
-<td width="33%" align="center">
+<td align="center" width="180">
 
-<h3>🧠 Problem Solving</h3>
+<h2>⚛️</h2>
+<b>REACT</b>
+<br>
+<sub>UI • Components</sub>
 
-<img src="https://skillicons.dev/icons?i=leetcode" />
+</td>
+</tr>
+
+<tr>
+<td colspan="3" align="center">
+
+<br>
+
+<h2>🚀 JAVA FULL STACK</h2>
+
+<sub>
+Building practical applications • Writing clean code • Solving problems
+</sub>
 
 <br><br>
 
-<b>DSA & Placement</b><br>
-Data Structures · Algorithms<br>
-Problem Solving · Interview Preparation
+<img src="https://img.shields.io/badge/BUILDING-REAL_WORLD_PROJECTS-0EA5E9?style=for-the-badge&labelColor=020617"/>
+&nbsp;
+<img src="https://img.shields.io/badge/LEARNING-EVERY_DAY-38BDF8?style=for-the-badge&labelColor=020617"/>
+&nbsp;
+<img src="https://img.shields.io/badge/PREPARING-PLACEMENTS-22D3EE?style=for-the-badge&labelColor=020617"/>
+
+<br><br>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<h2>🗄️</h2>
+<b>DATABASE</b>
+<br>
+<sub>MySQL • SQL • JPA</sub>
 
 </td>
 
+<td align="center">
+
+<h2>🧠</h2>
+<b>PROBLEM SOLVING</b>
+<br>
+<sub>DSA • Algorithms</sub>
+
+</td>
+
+<td align="center">
+
+<h2>🎯</h2>
+<b>CAREER</b>
+<br>
+<sub>Placement • Growth</sub>
+
+</td>
 </tr>
 </table>
 
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/BUILD-REAL%20WORLD%20PROJECTS-0EA5E9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LEARN-CONTINUOUSLY-38BDF8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PREPARE-FOR%20PLACEMENTS-22D3EE?style=for-the-badge" />
-</p>
+</div>
 
 <br>
 
 <p align="center">
   <b>☕ Java</b>
-  &nbsp;→&nbsp;
+  &nbsp; • &nbsp;
   <b>🌱 Spring Boot</b>
-  &nbsp;→&nbsp;
-  <b>🔗 REST API</b>
-  &nbsp;→&nbsp;
+  &nbsp; • &nbsp;
+  <b>🔗 REST APIs</b>
+  &nbsp; • &nbsp;
   <b>🗄️ MySQL</b>
-  &nbsp;→&nbsp;
+  &nbsp; • &nbsp;
   <b>⚛️ React</b>
-  &nbsp;→&nbsp;
+  &nbsp; • &nbsp;
   <b>🧠 DSA</b>
 </p>
-
 
 
 <!-- ================================================================ -->
