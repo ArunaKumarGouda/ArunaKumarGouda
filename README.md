@@ -187,72 +187,109 @@ Git · GitHub · Maven · Postman
 
 <!-- ================================================================ -->
 
-<!--                    🎯 CURRENT FOCUS                             -->
+<!--                         CURRENT FOCUS                           -->
 
 <!-- ================================================================ -->
 
 <h2 align="center">🎯 Current Focus</h2>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Learning+Java+Full+Stack+Development;Building+Real+World+Applications;Preparing+for+Software+Developer+Placements" />
-</p>
-
 <br>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,mysql,js" height="55"/>
+<table>
+<tr>
 
-<br><br>
+<!-- ======================= LEFT SIDE ======================= -->
 
-### ☕ → 🌱 → 🔗 → 🗄️ → ⚛️ → 🧠
+<td width="48%" valign="top">
 
-**Java**
-*Core Java · OOPs · Collections*
+<h3>👨‍💻 My Development Journey</h3>
 
-⬇️
+<p>
+I'm currently building my journey as a 
+<b>Java Full Stack Developer</b>, focusing on turning
+ideas into practical and reliable web applications.
+</p>
 
-**Spring Boot**
-*Backend Development · REST APIs*
+<p>
+I believe in:
+</p>
 
-⬇️
+<p>
+☕ <b>Learn the fundamentals</b><br>
+🛠️ <b>Build real-world projects</b><br>
+🧠 <b>Improve problem-solving</b><br>
+🚀 <b>Keep growing every day</b>
+</p>
 
-**MySQL & JPA**
-*Database · SQL · Hibernate*
+<br>
 
-⬇️
+<p>
+<b>My Goal</b>
+</p>
 
-**React**
-*Frontend Development · Components*
+<p>
+To become a confident software developer who can
+design, develop and deploy complete applications
+from <b>frontend to backend and database</b>.
+</p>
 
-⬇️
+</td>
 
-**DSA & Problem Solving**
-*Algorithms · Coding Practice · Interview Preparation*
+<!-- ======================= RIGHT SIDE ====================== -->
+
+<td width="48%" valign="top">
+
+<h3>🔥 What I'm Focusing On</h3>
+
+<p>
+☕ <b>Java & OOPs</b><br>
+<sub>Strengthening core programming concepts</sub>
+</p>
+
+<p>
+🌱 <b>Spring Boot</b><br>
+<sub>Building backend applications & REST APIs</sub>
+</p>
+
+<p>
+⚛️ <b>React</b><br>
+<sub>Creating modern and responsive interfaces</sub>
+</p>
+
+<p>
+🗄️ <b>MySQL & JPA</b><br>
+<sub>Working with databases and persistence</sub>
+</p>
+
+<p>
+🧠 <b>DSA & Problem Solving</b><br>
+<sub>Preparing for technical interviews</sub>
+</p>
+
+<p>
+🎯 <b>Placement Preparation</b><br>
+<sub>Getting ready for software developer roles</sub>
+</p>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
 <br>
 
-<h3 align="center">🚀 What I'm Doing Right Now</h3>
-
 <p align="center">
-  Building practical applications with Java Full Stack technologies
-  <br>
-  Strengthening backend development with Spring Boot
-  <br>
-  Improving frontend development with React
-  <br>
-  Practicing DSA for technical interviews
-  <br>
-  Preparing for software developer placements
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/FOCUS-JAVA%20FULL%20STACK-0EA5E9?style=for-the-badge&labelColor=020617"/>
-  <img src="https://img.shields.io/badge/MINDSET-LEARN%20%7C%20BUILD%20%7C%20IMPROVE-38BDF8?style=for-the-badge&labelColor=020617"/>
+  <img src="https://img.shields.io/badge/LEARN-0EA5E9?style=for-the-badge&labelColor=020617"/>
+  →
+  <img src="https://img.shields.io/badge/BUILD-38BDF8?style=for-the-badge&labelColor=020617"/>
+  →
+  <img src="https://img.shields.io/badge/SOLVE-22D3EE?style=for-the-badge&labelColor=020617"/>
+  →
+  <img src="https://img.shields.io/badge/GROW-0EA5E9?style=for-the-badge&labelColor=020617"/>
 </p>
 
 
