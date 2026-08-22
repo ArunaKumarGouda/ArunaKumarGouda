@@ -338,19 +338,7 @@ Combining Java, Spring Boot, React and MySQL into complete applications
 
 <br>
 
-<!-- ========================= TYPING ANIMATION ========================= -->
-
-<p align="center">
-
-<img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Learning+Java+%7C+Practicing+DSA;Building+Real+Projects;Learning+Spring+Boot+%26+React;Preparing+for+Placements;Growing+Every+Day+%F0%9F%9A%80"
-alt="Current Focus Animation"
-/>
-
-</p>
-
 <!-- ================================================================ -->
-
 
 
 <!-- ================================================================ -->
