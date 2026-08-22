@@ -46,73 +46,68 @@
 </div>
 
 <!-- ================================================================ -->
+
 <!--                         ABOUT ME                                -->
+
 <!-- ================================================================ -->
 
 <h2 align="center">🧠 About Me</h2>
 
-<table align="center">
-<tr>
+<br>
 
-<!-- ========================= LEFT SIDE ========================== -->
+<div align="center">
 
-<td width="50%" valign="top">
+<p>
+  <img src="https://img.shields.io/badge/B.Tech-CSE-0EA5E9?style=for-the-badge&labelColor=020617" />
+  <img src="https://img.shields.io/badge/Developer-Java%20Full%20Stack-38BDF8?style=for-the-badge&labelColor=020617" />
+  <img src="https://img.shields.io/badge/Location-Odisha%2C%20India-22D3EE?style=for-the-badge&labelColor=020617" />
+</p>
+
+</div>
+
+<br>
+
+<div align="center">
 
 <h3>👋 Hello, I'm Aruna Kumar Gouda</h3>
 
 <p>
-🎓 <b>B.Tech CSE Student</b><br/>
-💻 <b>Java Full Stack Developer</b><br/>
-📍 Odisha, India
+  I'm a <b>B.Tech Computer Science & Engineering student</b> with a strong
+  interest in software development and building practical applications.
 </p>
 
 <p>
-I enjoy building <b>modern web applications</b> and understanding
-how the frontend, backend, APIs, and database work together.
+  I enjoy understanding how different parts of a software system work together —
+  from <b>user interfaces and APIs to backend logic and databases</b>.
 </p>
 
 <p>
-My primary stack is
-<b>Java · Spring Boot · React · REST API · MySQL</b>.
+  I like learning by building, experimenting with new ideas, and turning
+  concepts into working projects.
 </p>
 
-</td>
+</div>
 
-<!-- ========================= RIGHT SIDE ========================= -->
-
-<td width="50%" valign="top">
-
-<h3>🚀 What I'm Focused On</h3>
-
-<p>
-• Strengthening <b>Core Java & OOPs</b><br/>
-• Building backend applications with <b>Spring Boot</b><br/>
-• Creating responsive interfaces with <b>React</b><br/>
-• Working with <b>REST APIs & MySQL</b><br/>
-• Practicing <b>DSA & problem solving</b>
-</p>
-
-<h3>🎯 Career Goal</h3>
-
-<p>
-To become a strong <b>Java Full Stack Developer</b> by building
-real-world applications and continuously improving my
-development skills.
-</p>
-
-</td>
-
-</tr>
-</table>
-
-<br/>
+<br>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=600&lines=Learn+%E2%86%92+Build+%E2%86%92+Improve;Turning+Ideas+Into+Real+Applications"
-    alt="Development Philosophy"
-  />
+  <b>💡 Learn</b>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <b>🛠️ Build</b>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <b>🧠 Solve</b>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <b>🚀 Grow</b>
 </p>
+
+<br>
+
+<p align="center">
+  <i>
+    "Building skills one project, one problem, and one line of code at a time."
+  </i>
+</p>
+
 
 <!-- ================================================================ -->
 <!--                         TECH STACK                              -->
