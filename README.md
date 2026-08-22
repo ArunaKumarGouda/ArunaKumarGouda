@@ -290,8 +290,6 @@ Turning projects and practice into real development experience
 
 <br>
 
-<div align="center">
-
 <table width="100%">
 <tr>
 
@@ -303,35 +301,32 @@ Turning projects and practice into real development experience
 
 <div align="center">
 
-<a href="https://github.com/ArunaKumarGouda/PathGaurd">
+<!-- Animated Project Title -->
 
 <img
-  src="./assets/pathguard-banner.jpeg"
-  width="100%"
-  alt="IoT-Based Soldier Detection and Tracking System"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=100&lines=IoT-Based+Soldier+Detection;%26+Tracking+System;ESP32+%7C+GPS+%7C+LoRa;React+%7C+Node.js+%7C+Express"
+  alt="IoT-Based Soldier Detection and Tracking System Animation"
 />
 
-</a>
-
-<br><br>
+<br>
 
 <h2>🛡️ IoT-Based Soldier Detection & Tracking System</h2>
 
 <p>
-<b>Defense Technology • IoT • Real-Time Tracking</b>
+<b>IoT • Defense Technology • Real-Time Tracking</b>
 </p>
 
-<p align="center">
-  An IoT-based defense monitoring system designed to provide
-  <b>real-time soldier location tracking</b> using GPS and
-  long-range LoRa communication.
+<p>
+An IoT-based defense monitoring system designed for
+<b>real-time soldier location tracking</b> using ESP32,
+GPS and long-range LoRa communication.
 </p>
 
 <br>
 
-<!-- Tech Stack -->
+<!-- Technologies -->
 
-<p align="center">
+<p>
 
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
 <img src="https://img.shields.io/badge/GPS-0078D4?style=for-the-badge"/>
@@ -344,8 +339,6 @@ Turning projects and practice into real development experience
 
 <br>
 
-<!-- Project Info -->
-
 <table width="100%">
 <tr>
 
@@ -355,7 +348,7 @@ ESP32 + GPS + LoRa
 </td>
 
 <td align="center">
-<b>🌐 Dashboard</b><br>
+<b>🌐 Frontend</b><br>
 React + Vite
 </td>
 
@@ -396,16 +389,14 @@ Node.js + Express
 
 <div align="center">
 
-<!-- Animated Project Visual -->
+<!-- Animated Project Title -->
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=100&lines=Student+Management+System;Java+%7C+MySQL+%7C+Swing;Manage+%7C+Store+%7C+View"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=100&lines=Student+Management+System;Java+%7C+Swing+%7C+MySQL;Manage+%7C+Store+%7C+View"
   alt="Student Management System Animation"
 />
 
 <br>
-
-<div align="center">
 
 <h2>🎓 Student Management System</h2>
 
@@ -413,17 +404,17 @@ Node.js + Express
 <b>Java • Desktop Application • Database</b>
 </p>
 
-<p align="center">
-  A Java-based student management application designed to
-  <b>store, manage and view student information</b> through
-  a graphical user interface connected with MySQL.
+<p>
+A Java-based student management application designed to
+<b>store, manage and view student information</b> through
+a graphical user interface connected with MySQL.
 </p>
 
 <br>
 
-<!-- Tech Stack -->
+<!-- Technologies -->
 
-<p align="center">
+<p>
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java%20Swing-5382A1?style=for-the-badge"/>
@@ -433,8 +424,6 @@ Node.js + Express
 </p>
 
 <br>
-
-<!-- Project Info -->
 
 <table width="100%">
 <tr>
@@ -480,8 +469,6 @@ MySQL
 </tr>
 </table>
 
-</div>
-
 <br>
 
 <!-- ================================================================ -->
@@ -490,16 +477,18 @@ MySQL
 
 <div align="center">
 
-<h3>💡 From Hardware to Software</h3>
+<h3>💡 Building • Learning • Growing</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/IoT-ESP32%20%7C%20GPS%20%7C%20LoRa-0EA5E9?style=flat-square"/>
-  →
-  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express-38BDF8?style=flat-square"/>
-  →
-  <img src="https://img.shields.io/badge/Frontend-React-22D3EE?style=flat-square"/>
-  →
-  <img src="https://img.shields.io/badge/Java-MySQL-0EA5E9?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/IoT-ESP32%20%7C%20GPS%20%7C%20LoRa-0EA5E9?style=flat-square"/>
+→
+<img src="https://img.shields.io/badge/Web-React%20%7C%20Node.js-38BDF8?style=flat-square"/>
+→
+<img src="https://img.shields.io/badge/Java-Java%20%7C%20Swing-22D3EE?style=flat-square"/>
+→
+<img src="https://img.shields.io/badge/Database-MySQL-0EA5E9?style=flat-square"/>
+
 </p>
 
 <br>
