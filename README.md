@@ -217,6 +217,83 @@ Git • GitHub • VS Code • IntelliJ • Postman
 
 <!-- ================================================================ -->
 
+<!-- ================================================================ -->
+
+<!--                         🎯 CURRENT FOCUS                         -->
+
+<!-- ================================================================ -->
+
+<h2 align="center">🎯 Current Focus</h2>
+
+<p align="center">
+  <i>Focused on strengthening my development skills and becoming placement-ready.</i>
+</p>
+
+<br>
+
+<div align="center">
+
+<table width="100%">
+<tr>
+
+<td width="33%" align="center" valign="top">
+
+<h3>☕ Java Development</h3>
+
+<p>
+Strengthening <b>Core Java, OOPs, Collections</b> and
+building practical Java applications.
+</p>
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+<h3>🧠 DSA & Problem Solving</h3>
+
+<p>
+Practicing <b>Data Structures & Algorithms</b> and
+improving problem-solving skills through coding challenges.
+</p>
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+<h3>🌐 Full Stack Development</h3>
+
+<p>
+Learning <b>Spring Boot, REST APIs and React</b> to
+build complete full-stack applications.
+</p>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Java-Core%20%26%20OOP-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/DSA-Problem%20Solving-0EA5E9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-Learning-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-Learning-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Placement-Preparation-22D3EE?style=flat-square"/>
+
+</p>
+
+<br>
+
+<p align="center">
+  <b>Learn → Build → Practice → Prepare → Grow 🚀</b>
+</p>
+
+<!-- ================================================================ -->
+
 
 <!-- ================================================================ -->
 <!--                         CURRENT FOCUS                           -->
