@@ -21,26 +21,9 @@
 
   <br/><br/>
 
-  <!-- Social Links -->
-  <a href="https://www.linkedin.com/in/aruna-kumar-gouda-3997b9359/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-
-  <a href="mailto:arunakumargouda86@gmail.com">
-    <img src="https://img.shields.io/badge/Email-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-
-  <a href="https://github.com/ArunaKumarGouda">
-    <img src="https://img.shields.io/badge/GitHub-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-
-  <br/><br/>
-
   <!-- Profile Metrics -->
   ![Profile Views](https://komarev.com/ghpvc/?username=ArunaKumarGouda&color=0ea5e9&style=for-the-badge&label=PROFILE+VIEWS)
   ![Followers](https://img.shields.io/github/followers/ArunaKumarGouda?style=for-the-badge&color=38bdf8&label=FOLLOWERS&labelColor=020617)
-  ![Stars](https://img.shields.io/github/stars/ArunaKumarGouda?style=for-the-badge&color=22d3ee&label=STARS&labelColor=020617)
-
 
 
 </div>
@@ -645,23 +628,47 @@ MySQL
 </table>
 
 <!-- ================================================================ -->
-<!--                          SUPPORT SECTION                          -->
+<!--                        🤝 CONNECT WITH ME                        -->
 <!-- ================================================================ -->
-## 🤝 Let's Connect
+
+<h2 align="center">🤝 Connect With Me</h2>
+
+<br>
+
+<p align="center">
+
+<a href="mailto:arunakumargouda86@gmail.com">
+  <img src="https://img.shields.io/badge/arunakumargouda86%40gmail.com-06B6D4?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/aruna-kumar-gouda-3997b9359/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/ArunaKumarGouda">
+  <img src="https://img.shields.io/badge/GITHUB-0EA5E9?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+<br>
+
+<p align="center">
+  <i>
+    Open to learning, collaboration, and building meaningful software.
+  </i>
+</p>
+
+<br>
+
+<!-- ================================================================ -->
+<!--                            FOOTER                                -->
+<!-- ================================================================ -->
 
 <div align="center">
-
-[![Email](https://img.shields.io/badge/arunakumargouda86@gmail.com-06B6D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arunakumargouda86@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aruna-kumar-gouda-3997b9359/)
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-0EA5E9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArunaKumarGouda)
-
-*Always open to collaborating on interesting projects, open source, and new ideas.*
-
-</div>
-
-<!-- ================================================================ -->
-<!--                            FOOTER                                 -->
-<!-- ================================================================ -->
-<div align="center">
-  <img src="./assets/footer.svg" width="100%" alt="footer" />
+  <img src="./assets/footer.svg" width="100%" alt="Aruna Kumar Gouda footer" />
 </div>
