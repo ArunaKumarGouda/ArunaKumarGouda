@@ -570,14 +570,6 @@ MySQL
 
 <br>
 
-<h3 align="center">🏆 GitHub Achievements</h3>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArunaKumarGouda&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=15"/>
-</p>
-
-<br>
-
 <h3 align="center">🐍 Contribution Snake</h3>
 
 <p align="center">
@@ -595,25 +587,6 @@ MySQL
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArunaKumarGouda&theme=github_dark">
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArunaKumarGouda&theme=github_dark&utcOffset=5.5">
 </p>
-
-<!-- ================================================================ -->
-<!--                        CODING ACTIVITY                           -->
-<!-- ================================================================ -->
-## 💻 Coding Activity
-
-<div align="center">
-
-| Platform | Status |
-|---|---|
-| ⏱️ WakaTime | *Coming soon — integrate via wakatime README stats* |
-| 📰 daily.dev | *Coming soon* |
-| 🟧 LeetCode | *Coming soon* |
-| 🔵 Codeforces | *Coming soon* |
-| 🟢 GeeksforGeeks | *Coming soon* |
-| 🟩 HackerRank | *Coming soon* |
-| ⚫ CodeChef | *Coming soon* |
-
-</div>
 
 <!-- ================================================================ -->
 <!--                          ACHIEVEMENTS                             -->
@@ -645,56 +618,6 @@ MySQL
 </td>
 </tr>
 </table>
-
-<!-- ================================================================ -->
-<!--                             TIMELINE                             -->
-<!-- ================================================================ -->
-## 🗺️ Learning Journey & Timeline
-
-```text
-2022  ●─── Started B.Tech in Computer Science Engineering
-2023  ●─── Learned Java, C, and core programming fundamentals
-2024  ●─── Explored Python, Web Development (HTML/CSS/JS), MySQL
-2025  ●─── Built Spring Boot APIs, React apps & real-world projects
-2026  ●─── Diving into Microservices, Docker, Cloud & Machine Learning
-Next  ●─── Placement-ready Full Stack + AI-powered projects
-```
-
-<!-- ================================================================ -->
-<!--                       DEVELOPMENT ROADMAP                        -->
-<!-- ================================================================ -->
-## 🛤️ Development Roadmap
-
-- [x] Java & Core Programming
-- [x] Spring Boot Fundamentals
-- [x] React & Frontend Development
-- [ ] Microservices Architecture
-- [ ] Docker & Containerization
-- [ ] AWS Cloud Fundamentals
-- [ ] Kubernetes
-- [ ] Machine Learning & Deep Learning
-- [ ] Data Science Foundations
-
-<!-- ================================================================ -->
-<!--                          QUOTE SECTION                           -->
-<!-- ================================================================ -->
-<div align="center">
-
-### 💬
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
-
-<!-- ================================================================ -->
-<!--                            FUN SECTION                            -->
-<!-- ================================================================ -->
-## 🎉 Just for Fun
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api" />
-</div>
-
-<sub>🗺️ Visitor map & 🎧 Spotify status — placeholders ready to connect once configured.</sub>
 
 <!-- ================================================================ -->
 <!--                          SUPPORT SECTION                          -->
