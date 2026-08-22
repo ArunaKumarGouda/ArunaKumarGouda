@@ -181,91 +181,99 @@ Git · GitHub · Maven · Postman
 
 
 <!-- ================================================================ -->
-
 <!--                         CURRENT FOCUS                           -->
-
 <!-- ================================================================ -->
 
 <h2 align="center">🎯 Current Focus</h2>
+
+<p align="center">
+  <i>Where I am today &nbsp; • &nbsp; Where I'm heading next</i>
+</p>
 
 <br>
 
 <div align="center">
 
-<table>
-<tr>
-
-<!-- ======================= LEFT SIDE ======================= -->
-
-<td width="48%" valign="top">
-
-<h3>👨‍💻 My Development Journey</h3>
-
 <p>
-I'm currently building my journey as a 
-<b>Java Full Stack Developer</b>, focusing on turning
-ideas into practical and reliable web applications.
+  <img src="https://img.shields.io/badge/01-NOW-0EA5E9?style=for-the-badge&labelColor=020617" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/02-NEXT-38BDF8?style=for-the-badge&labelColor=020617" />
 </p>
 
-<p>
-I believe in:
-</p>
-
-<p>
-☕ <b>Learn the fundamentals</b><br>
-🛠️ <b>Build real-world projects</b><br>
-🧠 <b>Improve problem-solving</b><br>
-🚀 <b>Keep growing every day</b>
-</p>
+</div>
 
 <br>
 
+<div align="center">
+
+<table border="0">
+<tr>
+
+<td width="45%" valign="top" align="left">
+
+<h3>⚡ NOW</h3>
+
 <p>
-<b>My Goal</b>
+<b>🛠️ Building</b>
+<br>
+Real-world Java applications and full-stack projects
 </p>
 
 <p>
-To become a confident software developer who can
-design, develop and deploy complete applications
-from <b>frontend to backend and database</b>.
+<b>🌱 Learning</b>
+<br>
+Spring Boot, REST APIs, JPA & Hibernate
+</p>
+
+<p>
+<b>🧠 Practicing</b>
+<br>
+DSA, problem solving and coding challenges
+</p>
+
+<p>
+<b>🎨 Developing</b>
+<br>
+React interfaces connected with backend APIs
 </p>
 
 </td>
 
-<!-- ======================= RIGHT SIDE ====================== -->
+<td width="10%" align="center">
 
-<td width="48%" valign="top">
+<h1>│</h1>
+<h1>│</h1>
+<h1>│</h1>
+<h1>│</h1>
 
-<h3>🔥 What I'm Focusing On</h3>
+</td>
+
+<td width="45%" valign="top" align="left">
+
+<h3>🚀 NEXT</h3>
 
 <p>
-☕ <b>Java & OOPs</b><br>
-<sub>Strengthening core programming concepts</sub>
+<b>🔗 Full Stack Integration</b>
+<br>
+Connecting frontend, backend and database into complete applications
 </p>
 
 <p>
-🌱 <b>Spring Boot</b><br>
-<sub>Building backend applications & REST APIs</sub>
+<b>🏗️ Better Architecture</b>
+<br>
+Writing cleaner, scalable and maintainable code
 </p>
 
 <p>
-⚛️ <b>React</b><br>
-<sub>Creating modern and responsive interfaces</sub>
+<b>💼 Placement Ready</b>
+<br>
+Strengthening technical and interview skills
 </p>
 
 <p>
-🗄️ <b>MySQL & JPA</b><br>
-<sub>Working with databases and persistence</sub>
-</p>
-
-<p>
-🧠 <b>DSA & Problem Solving</b><br>
-<sub>Preparing for technical interviews</sub>
-</p>
-
-<p>
-🎯 <b>Placement Preparation</b><br>
-<sub>Getting ready for software developer roles</sub>
+<b>📈 Continuous Growth</b>
+<br>
+Turning projects and practice into real development experience
 </p>
 
 </td>
@@ -278,13 +286,13 @@ from <b>frontend to backend and database</b>.
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LEARN-0EA5E9?style=for-the-badge&labelColor=020617"/>
+  <img src="https://img.shields.io/badge/☕_LEARN-0EA5E9?style=flat-square&labelColor=020617" />
   →
-  <img src="https://img.shields.io/badge/BUILD-38BDF8?style=for-the-badge&labelColor=020617"/>
+  <img src="https://img.shields.io/badge/🛠️_BUILD-38BDF8?style=flat-square&labelColor=020617" />
   →
-  <img src="https://img.shields.io/badge/SOLVE-22D3EE?style=for-the-badge&labelColor=020617"/>
+  <img src="https://img.shields.io/badge/🧠_SOLVE-22D3EE?style=flat-square&labelColor=020617" />
   →
-  <img src="https://img.shields.io/badge/GROW-0EA5E9?style=for-the-badge&labelColor=020617"/>
+  <img src="https://img.shields.io/badge/🚀_GROW-0EA5E9?style=flat-square&labelColor=020617" />
 </p>
 
 
