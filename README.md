@@ -217,124 +217,59 @@ Git • GitHub • VS Code • IntelliJ • Postman
 
 <!-- ================================================================ -->
 
-<!-- ================================================================ -->
-
-<!--                         🎯 CURRENT FOCUS                         -->
 
 <!-- ================================================================ -->
 
-<h2 align="center">🎯 Current Focus</h2>
-
-<p align="center">
-  <i>Focused on strengthening my development skills and becoming placement-ready.</i>
-</p>
-
-<br>
-
-<div align="center">
-
-<table width="100%">
-<tr>
-
-<td width="33%" align="center" valign="top">
-
-<h3>☕ Java Development</h3>
-
-<p>
-Strengthening <b>Core Java, OOPs, Collections</b> and
-building practical Java applications.
-</p>
-
-</td>
-
-<td width="33%" align="center" valign="top">
-
-<h3>🧠 DSA & Problem Solving</h3>
-
-<p>
-Practicing <b>Data Structures & Algorithms</b> and
-improving problem-solving skills through coding challenges.
-</p>
-
-</td>
-
-<td width="33%" align="center" valign="top">
-
-<h3>🌐 Full Stack Development</h3>
-
-<p>
-Learning <b>Spring Boot, REST APIs and React</b> to
-build complete full-stack applications.
-</p>
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
-<br>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Java-Core%20%26%20OOP-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/DSA-Problem%20Solving-0EA5E9?style=flat-square"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-Learning-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-Learning-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Placement-Preparation-22D3EE?style=flat-square"/>
-
-</p>
-
-<br>
-
-<p align="center">
-  <b>Learn → Build → Practice → Prepare → Grow 🚀</b>
-</p>
-
-<!-- ================================================================ -->
-
-
-<!-- ================================================================ -->
 <!--                         CURRENT FOCUS                           -->
+
 <!-- ================================================================ -->
 
 <h2 align="center">🎯 Current Focus</h2>
+
+<p align="center">
+  <i>Building strong fundamentals and preparing for a Java Full Stack career.</i>
+</p>
+
+<br>
 
 <div align="center">
 
 <table border="0">
 <tr>
 
+<!-- ========================= NOW ========================= -->
+
 <td width="45%" valign="top" align="left">
 
 <h3>⚡ NOW</h3>
 
 <p>
-<b>🛠️ Building</b>
+<b>☕ Strengthening Java</b>
 <br>
-Real-world Java applications and full-stack projects
+Core Java, OOPs, Collections and practical Java programming
 </p>
 
 <p>
-<b>🌱 Learning</b>
+<b>🧠 Practicing DSA</b>
 <br>
-Spring Boot, REST APIs, JPA & Hibernate
+Data Structures, Algorithms and problem-solving challenges
 </p>
 
 <p>
-<b>🧠 Practicing</b>
+<b>🛠️ Building Projects</b>
 <br>
-DSA, problem solving and coding challenges
+Improving my existing Java and IoT-based projects through practical development
 </p>
 
 <p>
-<b>🎨 Developing</b>
+<b>🎯 Preparing for Placements</b>
 <br>
-React interfaces connected with backend APIs
+Technical preparation, coding practice and placement-focused English
 </p>
 
 </td>
+
+<!-- ========================= DIVIDER ========================= -->
 
 <td width="10%" align="center">
 
@@ -342,35 +277,38 @@ React interfaces connected with backend APIs
 <h1>│</h1>
 <h1>│</h1>
 <h1>│</h1>
+<h1>│</h1>
 
 </td>
+
+<!-- ========================= NEXT ========================= -->
 
 <td width="45%" valign="top" align="left">
 
 <h3>🚀 NEXT</h3>
 
 <p>
-<b>🔗 Full Stack Integration</b>
+<b>🌱 Spring Boot</b>
 <br>
-Connecting frontend, backend and database into complete applications
+Learning Spring Boot, REST APIs and backend development
 </p>
 
 <p>
-<b>🏗️ Better Architecture</b>
+<b>⚛️ React</b>
 <br>
-Writing cleaner, scalable and maintainable code
+Building modern frontend interfaces and connecting them with APIs
 </p>
 
 <p>
-<b>💼 Placement Ready</b>
+<b>🗄️ Database Integration</b>
 <br>
-Strengthening technical and interview skills
+Working with MySQL and learning better backend-database integration
 </p>
 
 <p>
-<b>📈 Continuous Growth</b>
+<b>💼 Full Stack Development</b>
 <br>
-Turning projects and practice into real development experience
+Combining Java, Spring Boot, React and MySQL into complete applications
 </p>
 
 </td>
@@ -382,15 +320,37 @@ Turning projects and practice into real development experience
 
 <br>
 
+<!-- ========================= ANIMATED FLOW ========================= -->
+
 <p align="center">
-  <img src="https://img.shields.io/badge/☕_LEARN-0EA5E9?style=flat-square&labelColor=020617" />
-  →
-  <img src="https://img.shields.io/badge/🛠️_BUILD-38BDF8?style=flat-square&labelColor=020617" />
-  →
-  <img src="https://img.shields.io/badge/🧠_SOLVE-22D3EE?style=flat-square&labelColor=020617" />
-  →
-  <img src="https://img.shields.io/badge/🚀_GROW-0EA5E9?style=flat-square&labelColor=020617" />
+
+<img src="https://img.shields.io/badge/☕_JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+&nbsp;→&nbsp;
+<img src="https://img.shields.io/badge/🧠_DSA-0EA5E9?style=for-the-badge"/>
+&nbsp;→&nbsp;
+<img src="https://img.shields.io/badge/🌱_SPRING_BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+&nbsp;→&nbsp;
+<img src="https://img.shields.io/badge/⚛️_REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+&nbsp;→&nbsp;
+<img src="https://img.shields.io/badge/🚀_FULL_STACK-22D3EE?style=for-the-badge"/>
+
 </p>
+
+<br>
+
+<!-- ========================= TYPING ANIMATION ========================= -->
+
+<p align="center">
+
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Learning+Java+%7C+Practicing+DSA;Building+Real+Projects;Learning+Spring+Boot+%26+React;Preparing+for+Placements;Growing+Every+Day+%F0%9F%9A%80"
+alt="Current Focus Animation"
+/>
+
+</p>
+
+<!-- ================================================================ -->
+
 
 
 <!-- ================================================================ -->
