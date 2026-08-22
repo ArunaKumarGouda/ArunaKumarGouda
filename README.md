@@ -190,18 +190,45 @@ Git · GitHub · Maven · Postman
 <!-- ================================================================ -->
 ## 🎯 Current Focus
 
+## 🎯 Current Focus
+
 ```java
 public class CurrentFocus {
-    String[] technologies = {"Spring Boot", "React", "Docker", "AWS Basics"};
-    String[] projects     = {"PathGuard", "SmartBus Tracker", "File Encryption System"};
-    String[] roadmap      = {"Microservices", "Kubernetes", "Machine Learning"};
-    boolean placementPrep = true;
+
+    String role = "Java Full Stack Developer";
+
+    String[] currentlyLearning = {
+        "Core Java & OOPs",
+        "Spring Boot",
+        "React",
+        "REST APIs",
+        "MySQL & SQL",
+        "Data Structures & Algorithms"
+    };
+
+    String[] currentGoals = {
+        "Build real-world Java Full Stack projects",
+        "Improve problem-solving skills",
+        "Prepare for software developer placements",
+        "Write clean and maintainable code"
+    };
+
+    boolean placementPreparation = true;
 
     public String mission() {
-        return "Ship clean code, learn relentlessly, and contribute to open source.";
+        return "Learn consistently, build practical applications, and become a strong Java Full Stack Developer.";
     }
 }
 ```
+
+<p align="center">
+  <b>Java → Spring Boot → REST API → JPA / Hibernate → MySQL → React → DSA</b>
+</p>
+
+<p align="center">
+  <i>Focused on building real-world applications while preparing for software developer placements.</i>
+</p>
+
 
 <!-- ================================================================ -->
 <!--                        FEATURED PROJECTS                         -->
