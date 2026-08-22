@@ -278,109 +278,239 @@ Turning projects and practice into real development experience
 </p>
 
 
-
 <!-- ================================================================ -->
-<!--                        FEATURED PROJECTS                         -->
+<!--                     🚀 FEATURED PROJECTS                         -->
 <!-- ================================================================ -->
-## 🚀 Featured Projects
 
-<table>
+<h2 align="center">🚀 Featured Projects</h2>
+
+<p align="center">
+  <i>Projects I've actually built and worked on.</i>
+</p>
+
+<br>
+
+<div align="center">
+
+<table width="100%">
 <tr>
+
+<!-- ============================================================ -->
+<!--                    PROJECT 01                                -->
+<!-- ============================================================ -->
+
 <td width="50%" valign="top">
 
-### 🛡️ PathGuard
-Smart route safety & path monitoring solution focused on reliability and real-time awareness.
+<div align="center">
 
-`Java` `Spring Boot` `MySQL`
+<a href="https://github.com/ArunaKumarGouda/PathGaurd">
 
-**Status:** 🟢 Active Development
+<img
+  src="./assets/pathguard-banner.jpeg"
+  width="100%"
+  alt="IoT-Based Soldier Detection and Tracking System"
+/>
 
-[![Repo](https://img.shields.io/badge/Repository-0EA5E9?style=flat-square&logo=github&logoColor=white)](https://github.com/ArunaKumarGouda)
+</a>
 
-</td>
-<td width="50%" valign="top">
+<br><br>
 
-### 🚌 SmartBus Tracker
-Real-time bus tracking system designed to bring live location awareness to daily commuters.
+<h2>🛡️ IoT-Based Soldier Detection & Tracking System</h2>
 
-`Java` `React` `APIs`
+<p>
+<b>Defense Technology • IoT • Real-Time Tracking</b>
+</p>
 
-**Status:** 🟢 Active Development
+<p align="center">
+  An IoT-based defense monitoring system designed to provide
+  <b>real-time soldier location tracking</b> using GPS and
+  long-range LoRa communication.
+</p>
 
-[![Repo](https://img.shields.io/badge/Repository-0EA5E9?style=flat-square&logo=github&logoColor=white)](https://github.com/ArunaKumarGouda)
+<br>
 
-</td>
-</tr>
+<!-- Tech Stack -->
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
+<img src="https://img.shields.io/badge/GPS-0078D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LoRa-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express"/>
+
+</p>
+
+<br>
+
+<!-- Project Info -->
+
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
 
-### 🔐 File Encryption System
-Secure file encryption/decryption tool built to protect sensitive data with strong cryptographic practices.
-
-`Java` `Security` `Algorithms`
-
-**Status:** 🟢 Stable
-
-[![Repo](https://img.shields.io/badge/Repository-0EA5E9?style=flat-square&logo=github&logoColor=white)](https://github.com/ArunaKumarGouda)
-
+<td align="center">
+<b>📡 Hardware</b><br>
+ESP32 + GPS + LoRa
 </td>
-<td width="50%" valign="top">
 
-### 🌐 Spring Boot APIs
-Collection of production-style REST APIs demonstrating clean architecture and best practices.
-
-`Spring Boot` `REST` `MySQL`
-
-**Status:** 🟢 Growing Collection
-
-[![Repo](https://img.shields.io/badge/Repository-0EA5E9?style=flat-square&logo=github&logoColor=white)](https://github.com/ArunaKumarGouda)
-
+<td align="center">
+<b>🌐 Dashboard</b><br>
+React + Vite
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 
-### ⚛️ React Projects
-Frontend applications exploring component-driven design, state management, and modern UI patterns.
-
-`React` `JavaScript` `CSS`
-
-**Status:** 🟢 Ongoing
-
-[![Repo](https://img.shields.io/badge/Repository-0EA5E9?style=flat-square&logo=github&logoColor=white)](https://github.com/ArunaKumarGouda)
-
+<td align="center">
+<b>⚙️ Backend</b><br>
+Node.js + Express
 </td>
-<td width="50%" valign="top">
 
-### 🐍 Python Projects
-Assorted Python scripts and mini-applications exploring automation, data handling, and AI fundamentals.
-
-`Python` `Automation` `AI`
-
-**Status:** 🟢 Ongoing
-
-[![Repo](https://img.shields.io/badge/Repository-0EA5E9?style=flat-square&logo=github&logoColor=white)](https://github.com/ArunaKumarGouda)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ☕ Java Projects
-Core and advanced Java projects covering OOP design, data structures, and algorithmic problem-solving.
-
-`Java` `DSA` `OOP`
-
-**Status:** 🟢 Ongoing
-
-[![Repo](https://img.shields.io/badge/Repository-0EA5E9?style=flat-square&logo=github&logoColor=white)](https://github.com/ArunaKumarGouda)
-
-</td>
-<td width="50%" valign="top">
-
-</td>
 </tr>
 </table>
+
+<br>
+
+<p>
+<b>👥 Team:</b> PathGuard
+</p>
+
+<p>
+<b>🟢 Status:</b> Active Development
+</p>
+
+<br>
+
+<a href="https://github.com/ArunaKumarGouda/PathGaurd">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0EA5E9?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+</td>
+
+
+<!-- ============================================================ -->
+<!--                    PROJECT 02                                -->
+<!-- ============================================================ -->
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+<!-- Animated Project Visual -->
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=100&lines=Student+Management+System;Java+%7C+MySQL+%7C+Swing;Manage+%7C+Store+%7C+View"
+  alt="Student Management System Animation"
+/>
+
+<br>
+
+<div align="center">
+
+<h2>🎓 Student Management System</h2>
+
+<p>
+<b>Java • Desktop Application • Database</b>
+</p>
+
+<p align="center">
+  A Java-based student management application designed to
+  <b>store, manage and view student information</b> through
+  a graphical user interface connected with MySQL.
+</p>
+
+<br>
+
+<!-- Tech Stack -->
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java%20Swing-5382A1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge"/>
+
+</p>
+
+<br>
+
+<!-- Project Info -->
+
+<table width="100%">
+<tr>
+
+<td align="center">
+<b>☕ Language</b><br>
+Java
+</td>
+
+<td align="center">
+<b>🖥️ Interface</b><br>
+Java Swing
+</td>
+
+<td align="center">
+<b>🗄️ Database</b><br>
+MySQL
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<p>
+<b>💻 Type:</b> Desktop Application
+</p>
+
+<p>
+<b>🟢 Status:</b> Active Development
+</p>
+
+<br>
+
+<a href="https://github.com/ArunaKumarGouda">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0EA5E9?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<!-- ================================================================ -->
+<!--                         PROJECT JOURNEY                          -->
+<!-- ================================================================ -->
+
+<div align="center">
+
+<h3>💡 From Hardware to Software</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/IoT-ESP32%20%7C%20GPS%20%7C%20LoRa-0EA5E9?style=flat-square"/>
+  →
+  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express-38BDF8?style=flat-square"/>
+  →
+  <img src="https://img.shields.io/badge/Frontend-React-22D3EE?style=flat-square"/>
+  →
+  <img src="https://img.shields.io/badge/Java-MySQL-0EA5E9?style=flat-square"/>
+</p>
+
+<br>
+
+<i>
+"Learning by building real projects and turning ideas into working software."
+</i>
+
+</div>
+
+<!-- ================================================================ -->
 
 <!-- ================================================================ -->
 <!--                      📊 GITHUB ANALYTICS                         -->
