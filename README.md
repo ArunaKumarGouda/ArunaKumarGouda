@@ -596,36 +596,6 @@ MySQL
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArunaKumarGouda&theme=github_dark&utcOffset=5.5">
 </p>
 
-<!-- ================================================================ -->
-<!--                          ACHIEVEMENTS                             -->
-<!-- ================================================================ -->
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Projects_Built-7+-0EA5E9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open_Source-Contributor-38BDF8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Learning-Everyday-22D3EE?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hackathons-Participant-0EA5E9?style=for-the-badge" />
-</p>
-
-<!-- ================================================================ -->
-<!--                          CERTIFICATIONS                          -->
-<!-- ================================================================ -->
-## 🎓 Certifications
-
-<table>
-<tr>
-<td align="center" width="33%">
-🏅<br/><b>Java Programming</b><br/><sub>Add certificate link</sub>
-</td>
-<td align="center" width="33%">
-🏅<br/><b>Python for Everybody</b><br/><sub>Add certificate link</sub>
-</td>
-<td align="center" width="33%">
-🏅<br/><b>Web Development</b><br/><sub>Add certificate link</sub>
-</td>
-</tr>
-</table>
 
 <!-- ================================================================ -->
 <!--                        🤝 CONNECT WITH ME                        -->
@@ -635,32 +605,26 @@ MySQL
 
 <br>
 
-<p align="center">
+<div align="center">
 
 <a href="mailto:arunakumargouda86@gmail.com">
-  <img src="https://img.shields.io/badge/arunakumargouda86%40gmail.com-06B6D4?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/arunakumargouda86%40gmail.com-06B6D4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0891B2&color=06B6D4" alt="Email"/>
 </a>
-
-&nbsp;&nbsp;
-
+&nbsp;
 <a href="https://www.linkedin.com/in/aruna-kumar-gouda-3997b9359/">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
-&nbsp;&nbsp;
-
+&nbsp;
 <a href="https://github.com/ArunaKumarGouda">
-  <img src="https://img.shields.io/badge/GITHUB-0EA5E9?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-</p>
+</div>
 
 <br>
 
 <p align="center">
-  <i>
-    Open to learning, collaboration, and building meaningful software.
-  </i>
+  <i>Open to learning, collaboration, and building meaningful software.</i>
 </p>
 
 <br>
