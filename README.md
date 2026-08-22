@@ -186,48 +186,91 @@ Git · GitHub · Maven · Postman
 
 
 <!-- ================================================================ -->
-<!--                          CURRENT FOCUS                           -->
+
+<!--                         CURRENT FOCUS                           -->
+
 <!-- ================================================================ -->
-## 🎯 Current Focus
 
-## 🎯 Current Focus
-
-```java
-public class CurrentFocus {
-
-    String role = "Java Full Stack Developer";
-
-    String[] currentlyLearning = {
-        "Core Java & OOPs",
-        "Spring Boot",
-        "React",
-        "REST APIs",
-        "MySQL & SQL",
-        "Data Structures & Algorithms"
-    };
-
-    String[] currentGoals = {
-        "Build real-world Java Full Stack projects",
-        "Improve problem-solving skills",
-        "Prepare for software developer placements",
-        "Write clean and maintainable code"
-    };
-
-    boolean placementPreparation = true;
-
-    public String mission() {
-        return "Learn consistently, build practical applications, and become a strong Java Full Stack Developer.";
-    }
-}
-```
+<h2 align="center">🎯 Current Focus</h2>
 
 <p align="center">
-  <b>Java → Spring Boot → REST API → JPA / Hibernate → MySQL → React → DSA</b>
+  <i>Currently focused on becoming a strong Java Full Stack Developer</i>
 </p>
 
+<br>
+
+<table align="center">
+<tr>
+
+<td width="33%" align="center">
+
+<h3>☕ Java Backend</h3>
+
+<img src="https://skillicons.dev/icons?i=java,spring" />
+
+<br><br>
+
+<b>Core Java</b><br>
+OOPs · Collections · Exception Handling<br>
+Spring Boot · REST APIs
+
+</td>
+
+<td width="33%" align="center">
+
+<h3>⚛️ Full Stack</h3>
+
+<img src="https://skillicons.dev/icons?i=react,js,mysql" />
+
+<br><br>
+
+<b>Frontend + Database</b><br>
+React · JavaScript · SQL<br>
+MySQL · JPA · Hibernate
+
+</td>
+
+<td width="33%" align="center">
+
+<h3>🧠 Problem Solving</h3>
+
+<img src="https://skillicons.dev/icons?i=leetcode" />
+
+<br><br>
+
+<b>DSA & Placement</b><br>
+Data Structures · Algorithms<br>
+Problem Solving · Interview Preparation
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
 <p align="center">
-  <i>Focused on building real-world applications while preparing for software developer placements.</i>
+  <img src="https://img.shields.io/badge/BUILD-REAL%20WORLD%20PROJECTS-0EA5E9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LEARN-CONTINUOUSLY-38BDF8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PREPARE-FOR%20PLACEMENTS-22D3EE?style=for-the-badge" />
 </p>
+
+<br>
+
+<p align="center">
+  <b>☕ Java</b>
+  &nbsp;→&nbsp;
+  <b>🌱 Spring Boot</b>
+  &nbsp;→&nbsp;
+  <b>🔗 REST API</b>
+  &nbsp;→&nbsp;
+  <b>🗄️ MySQL</b>
+  &nbsp;→&nbsp;
+  <b>⚛️ React</b>
+  &nbsp;→&nbsp;
+  <b>🧠 DSA</b>
+</p>
+
 
 
 <!-- ================================================================ -->
