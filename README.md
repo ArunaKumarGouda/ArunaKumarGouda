@@ -194,114 +194,67 @@ Git · GitHub · Maven · Postman
 <h2 align="center">🎯 Current Focus</h2>
 
 <p align="center">
-  <i>My current journey towards becoming a Java Full Stack Developer</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Learning+Java+Full+Stack+Development;Building+Real+World+Applications;Preparing+for+Software+Developer+Placements" />
 </p>
 
 <br>
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="180">
-
-<h2>☕</h2>
-<b>JAVA</b>
-<br>
-<sub>Core • OOPs • DSA</sub>
-
-</td>
-
-<td align="center" width="180">
-
-<h2>🌱</h2>
-<b>SPRING BOOT</b>
-<br>
-<sub>Backend • REST APIs</sub>
-
-</td>
-
-<td align="center" width="180">
-
-<h2>⚛️</h2>
-<b>REACT</b>
-<br>
-<sub>UI • Components</sub>
-
-</td>
-</tr>
-
-<tr>
-<td colspan="3" align="center">
-
-<br>
-
-<h2>🚀 JAVA FULL STACK</h2>
-
-<sub>
-Building practical applications • Writing clean code • Solving problems
-</sub>
+<img src="https://skillicons.dev/icons?i=java,spring,react,mysql,js" height="55"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/BUILDING-REAL_WORLD_PROJECTS-0EA5E9?style=for-the-badge&labelColor=020617"/>
-&nbsp;
-<img src="https://img.shields.io/badge/LEARNING-EVERY_DAY-38BDF8?style=for-the-badge&labelColor=020617"/>
-&nbsp;
-<img src="https://img.shields.io/badge/PREPARING-PLACEMENTS-22D3EE?style=for-the-badge&labelColor=020617"/>
+### ☕ → 🌱 → 🔗 → 🗄️ → ⚛️ → 🧠
 
-<br><br>
+**Java**
+*Core Java · OOPs · Collections*
 
-</td>
-</tr>
+⬇️
 
-<tr>
-<td align="center">
+**Spring Boot**
+*Backend Development · REST APIs*
 
-<h2>🗄️</h2>
-<b>DATABASE</b>
-<br>
-<sub>MySQL • SQL • JPA</sub>
+⬇️
 
-</td>
+**MySQL & JPA**
+*Database · SQL · Hibernate*
 
-<td align="center">
+⬇️
 
-<h2>🧠</h2>
-<b>PROBLEM SOLVING</b>
-<br>
-<sub>DSA • Algorithms</sub>
+**React**
+*Frontend Development · Components*
 
-</td>
+⬇️
 
-<td align="center">
-
-<h2>🎯</h2>
-<b>CAREER</b>
-<br>
-<sub>Placement • Growth</sub>
-
-</td>
-</tr>
-</table>
+**DSA & Problem Solving**
+*Algorithms · Coding Practice · Interview Preparation*
 
 </div>
 
 <br>
 
+<h3 align="center">🚀 What I'm Doing Right Now</h3>
+
 <p align="center">
-  <b>☕ Java</b>
-  &nbsp; • &nbsp;
-  <b>🌱 Spring Boot</b>
-  &nbsp; • &nbsp;
-  <b>🔗 REST APIs</b>
-  &nbsp; • &nbsp;
-  <b>🗄️ MySQL</b>
-  &nbsp; • &nbsp;
-  <b>⚛️ React</b>
-  &nbsp; • &nbsp;
-  <b>🧠 DSA</b>
+  Building practical applications with Java Full Stack technologies
+  <br>
+  Strengthening backend development with Spring Boot
+  <br>
+  Improving frontend development with React
+  <br>
+  Practicing DSA for technical interviews
+  <br>
+  Preparing for software developer placements
 </p>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FOCUS-JAVA%20FULL%20STACK-0EA5E9?style=for-the-badge&labelColor=020617"/>
+  <img src="https://img.shields.io/badge/MINDSET-LEARN%20%7C%20BUILD%20%7C%20IMPROVE-38BDF8?style=for-the-badge&labelColor=020617"/>
+</p>
+
 
 
 <!-- ================================================================ -->
