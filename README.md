@@ -186,24 +186,6 @@ Git · GitHub · Maven · Postman
 
 <h2 align="center">🎯 Current Focus</h2>
 
-<p align="center">
-  <i>Where I am today &nbsp; • &nbsp; Where I'm heading next</i>
-</p>
-
-<br>
-
-<div align="center">
-
-<p>
-  <img src="https://img.shields.io/badge/01-NOW-0EA5E9?style=for-the-badge&labelColor=020617" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/02-NEXT-38BDF8?style=for-the-badge&labelColor=020617" />
-</p>
-
-</div>
-
-<br>
-
 <div align="center">
 
 <table border="0">
