@@ -110,19 +110,25 @@
 
 
 <!-- ================================================================ -->
-<!--                         TECH STACK                              -->
+<!--                         ⚡ TECH STACK                            -->
 <!-- ================================================================ -->
 
 <h2 align="center">⚡ Tech Stack</h2>
 
 <p align="center">
-  Technologies I use for Java Full Stack Development
+  <i>Technologies and tools I'm learning and working with</i>
 </p>
 
-<table align="center">
+<br>
+
+<div align="center">
+
+<table width="100%">
 <tr>
 
-<td width="25%" align="center">
+<!-- ================= FRONTEND ================= -->
+
+<td width="25%" align="center" valign="top">
 
 <h3>🎨 Frontend</h3>
 
@@ -130,11 +136,16 @@
 
 <br><br>
 
-HTML · CSS · JavaScript · React
+<sub>
+HTML • CSS • JavaScript • React
+</sub>
 
 </td>
 
-<td width="25%" align="center">
+
+<!-- ================= BACKEND ================= -->
+
+<td width="25%" align="center" valign="top">
 
 <h3>☕ Backend</h3>
 
@@ -142,42 +153,69 @@ HTML · CSS · JavaScript · React
 
 <br><br>
 
-Java · Spring Boot · REST API
+<sub>
+Java • Spring Boot • REST API
+</sub>
 
 </td>
 
-<td width="25%" align="center">
+
+<!-- ================= DATABASE ================= -->
+
+<td width="25%" align="center" valign="top">
 
 <h3>🗄️ Database</h3>
 
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 
 <br><br>
 
-MySQL · SQL · JPA · Hibernate
+<sub>
+MySQL • MongoDB
+</sub>
 
 </td>
 
-<td width="25%" align="center">
+
+<!-- ================= TOOLS ================= -->
+
+<td width="25%" align="center" valign="top">
 
 <h3>🛠️ Tools</h3>
 
-<img src="https://skillicons.dev/icons?i=git,github,maven,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
 
 <br><br>
 
-Git · GitHub · Maven · Postman
+<sub>
+Git • GitHub • VS Code • IntelliJ • Postman
+</sub>
 
 </td>
 
 </tr>
 </table>
 
+</div>
+
 <br>
 
+<!-- ================= CURRENT STACK ================= -->
+
 <p align="center">
-  <b>React → REST API → Spring Boot → JPA / Hibernate → MySQL</b>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
 </p>
+
+<p align="center">
+  <b>Java → Spring Boot → REST API → React → MySQL</b>
+</p>
+
+<!-- ================================================================ -->
 
 
 <!-- ================================================================ -->
